@@ -1,0 +1,968 @@
+---
+haruka:
+  idol_id: 1
+  name: "天海 春香"
+  name_kana: "あまみ はるか"
+  age: 17
+  height: 158.0
+  weight: 46.0
+  bust: 83.0
+  waist: 56.0
+  hip: 82.0
+  birthday: 04/03
+  blood_type: O
+  handedness: right
+  hobby:
+  - "カラオケ"
+  - "長電話"
+  talent:
+  - "お菓子作り"
+  favorite:
+  - "歌うこと"
+chihaya:
+  idol_id: 2
+  name: "如月 千早"
+  name_kana: "きさらぎ ちはや"
+  age: 16
+  height: 162.0
+  weight: 41.0
+  bust: 72.0
+  waist: 55.0
+  hip: 78.0
+  birthday: 02/25
+  blood_type: A
+  handedness: right
+  hobby:
+  - "音楽鑑賞"
+  talent:
+  - "歌"
+  favorite:
+  - "トレーニング"
+miki:
+  idol_id: 3
+  name: "星井 美希"
+  name_kana: "ほしい みき"
+  age: 15
+  height: 161.0
+  weight: 45.0
+  bust: 86.0
+  waist: 55.0
+  hip: 83.0
+  birthday: 11/23
+  blood_type: B
+  handedness: right
+  hobby:
+  - "友達とおしゃべり"
+  - "ネイルアート"
+  talent:
+  - "寝ること"
+  favorite:
+  - "おにぎり"
+  - "いちごババロア"
+yukiho:
+  idol_id: 4
+  name: "萩原 雪歩"
+  name_kana: "はぎわら ゆきほ"
+  age: 17
+  height: 155.0
+  weight: 42.0
+  bust: 81.0
+  waist: 56.0
+  hip: 81.0
+  birthday: 12/24
+  blood_type: A
+  handedness: right
+  hobby:
+  - MY詩集を書くこと
+  talent:
+  - "日本茶をいれること"
+  favorite:
+  - "ブログ"
+yayoi:
+  idol_id: 5
+  name: "高槻 やよい"
+  name_kana: "たかつき やよい"
+  age: 14
+  height: 145.0
+  weight: 37.0
+  bust: 74.0
+  waist: 54.0
+  hip: 78.0
+  birthday: 03/25
+  blood_type: O
+  handedness: right
+  hobby:
+  - "オセロ"
+  - "野球"
+  talent:
+  - "節約"
+  - "家庭菜園"
+  favorite:
+  - "家族"
+makoto:
+  idol_id: 6
+  name: "菊地 真"
+  name_kana: "きくち まこと"
+  age: 17
+  height: 159.0
+  weight: 44.0
+  bust: 75.0
+  waist: 57.0
+  hip: 78.0
+  birthday: 08/29
+  blood_type: O
+  handedness: right
+  hobby:
+  - "スポーツ全般"
+  talent:
+  - "空手"
+  - "ダンス"
+  favorite:
+  - "ぬいぐるみ"
+iori:
+  idol_id: 7
+  name: "水瀬 伊織"
+  name_kana: "みなせ いおり"
+  age: 15
+  height: 153.0
+  weight: 40.0
+  bust: 77.0
+  waist: 54.0
+  hip: 79.0
+  birthday: 05/05
+  blood_type: AB
+  handedness: right
+  hobby:
+  - "海外旅行"
+  - "食べ歩き"
+  talent:
+  - "ショッピング"
+  favorite:
+  - "果汁100％オレンジジュース"
+takane:
+  idol_id: 8
+  name: "四条 貴音"
+  name_kana: "しじょう たかね"
+  age: 18
+  height: 169.0
+  weight: 49.0
+  bust: 90.0
+  waist: 62.0
+  hip: 92.0
+  birthday: 01/21
+  blood_type: B
+  handedness: right
+  hobby:
+  - "天体観測"
+  - "歴史"
+  talent:
+  - "直感"
+  favorite:
+  - "ラーメン"
+ritsuko:
+  idol_id: 9
+  name: "秋月 律子"
+  name_kana: "あきづき りつこ"
+  age: 19
+  height: 156.0
+  weight: 43.0
+  bust: 85.0
+  waist: 57.0
+  hip: 85.0
+  birthday: 06/23
+  blood_type: A
+  handedness: right
+  hobby:
+  - "資格取得"
+  talent:
+  - "分析・実践"
+  favorite:
+  - "ゲーム"
+  - "小説"
+azusa:
+  idol_id: 10
+  name: "三浦 あずさ"
+  name_kana: "みうら あずさ"
+  age: 21
+  height: 168.0
+  weight: 48.0
+  bust: 91.0
+  waist: 59.0
+  hip: 86.0
+  birthday: 07/19
+  blood_type: O
+  handedness: right
+  hobby:
+  - "犬の散歩"
+  talent:
+  - "占い"
+  favorite:
+  - "カフェ巡り"
+ami:
+  idol_id: 11
+  name: "双海 亜美"
+  name_kana: "ふたみ あみ"
+  age: 13
+  height: 158.0
+  weight: 42.0
+  bust: 78.0
+  waist: 55.0
+  hip: 77.0
+  birthday: 05/22
+  blood_type: B
+  handedness: right
+  hobby:
+  - "メール"
+  - "エコ"
+  talent:
+  - "モノマネ"
+  favorite:
+  - "遊ぶこと"
+mami:
+  idol_id: 12
+  name: "双海 真美"
+  name_kana: "ふたみ まみ"
+  age: 13
+  height: 158.0
+  weight: 42.0
+  bust: 78.0
+  waist: 55.0
+  hip: 77.0
+  birthday: 05/22
+  blood_type: B
+  handedness: left
+  hobby:
+  - "メール"
+  - "ゲーム"
+  talent:
+  - "モノマネ"
+  favorite:
+  - "遊ぶこと"
+hibiki:
+  idol_id: 13
+  name: "我那覇 響"
+  name_kana: "がなは ひびき"
+  age: 16
+  height: 152.0
+  weight: 41.0
+  bust: 83.0
+  waist: 56.0
+  hip: 80.0
+  birthday: 10/10
+  blood_type: A
+  handedness: right
+  hobby:
+  - "編み物"
+  - "卓球"
+  talent:
+  - "家事全般"
+  favorite:
+  - "散歩"
+  - "動物"
+mirai:
+  idol_id: 14
+  name: "春日 未来"
+  name_kana: "かすが みらい"
+  age: 14
+  height: 156.0
+  weight: 42.0
+  bust: 78.0
+  waist: 54.0
+  hip: 77.0
+  birthday: 06/28
+  blood_type: O
+  handedness: right
+  hobby:
+  - "可愛い髪留めを集めること"
+  talent:
+  - "歌うこと"
+  favorite:
+  - "ライブ"
+shizuka:
+  idol_id: 15
+  name: "最上 静香"
+  name_kana: "もがみ しずか"
+  age: 14
+  height: 162.0
+  weight: 44.0
+  bust: 76.0
+  waist: 53.0
+  hip: 77.0
+  birthday: 09/14
+  blood_type: A
+  handedness: right
+  hobby:
+  - "テニス"
+  talent:
+  - "ピアノ"
+  favorite:
+  - "うどん"
+tsubasa:
+  idol_id: 16
+  name: "伊吹 翼"
+  name_kana: "いぶき つばさ"
+  age: 14
+  height: 158.0
+  weight: 43.0
+  bust: 85.0
+  waist: 52.0
+  hip: 82.0
+  birthday: 07/30
+  blood_type: B
+  handedness: left
+  hobby:
+  - "遊びの計画をたてること"
+  talent:
+  - "じゃんけん"
+  favorite:
+  - "ビーフステーキ"
+kotoha:
+  idol_id: 17
+  name: "田中 琴葉"
+  name_kana: "たなか ことは"
+  age: 18
+  height: 157.0
+  weight: 44.0
+  bust: 79.0
+  waist: 55.0
+  hip: 78.0
+  birthday: 10/05
+  blood_type: A
+  handedness: right
+  hobby:
+  - "お風呂"
+  talent:
+  - "フェンシング"
+  favorite:
+  - "アイス"
+erena:
+  idol_id: 18
+  name: "島原 エレナ"
+  name_kana: "しまばら えれな"
+  age: 17
+  height: 160.0
+  weight: 47.0
+  bust: 85.0
+  waist: 58.0
+  hip: 86.0
+  birthday: 10/26
+  blood_type: B
+  handedness: right
+  hobby:
+  - "パーティー"
+  talent:
+  - "サンバを踊ること"
+  favorite:
+  - "みんなで騒ぐこと"
+minako:
+  idol_id: 19
+  name: "佐竹 美奈子"
+  name_kana: "さたけ みなこ"
+  age: 18
+  height: 158.0
+  weight: 45.0
+  bust: 86.0
+  waist: 54.0
+  hip: 82.0
+  birthday: 03/22
+  blood_type: O
+  handedness: right
+  hobby:
+  - "格闘ゲーム"
+  talent:
+  - "料理"
+  favorite:
+  - "友達との長電話"
+megumi:
+  idol_id: 20
+  name: "所 恵美"
+  name_kana: "ところ めぐみ"
+  age: 16
+  height: 159.0
+  weight: 47.0
+  bust: 88.0
+  waist: 56.0
+  hip: 85.0
+  birthday: 04/15
+  blood_type: O
+  handedness: right
+  hobby:
+  - "カラオケ"
+  talent:
+  - "人の誕生日を覚えること"
+  favorite:
+  - "友達"
+matsuri:
+  idol_id: 21
+  name: "徳川 まつり"
+  name_kana: "とくがわ まつり"
+  age: 19
+  height: 163.0
+  weight: 44.0
+  bust: 85.0
+  waist: 59.0
+  hip: 85.0
+  birthday: 02/04
+  blood_type: AB
+  handedness: right
+  hobby:
+  - "漫画あつめ"
+  talent:
+  - "演技"
+  favorite:
+  - "焼きマシュマロ"
+  - "ウミウシ"
+serika:
+  idol_id: 22
+  name: "箱崎 星梨花"
+  name_kana: "はこざき せりか"
+  age: 13
+  height: 146.0
+  weight: 37.0
+  bust: 74.0
+  waist: 54.0
+  hip: 76.0
+  birthday: 02/20
+  blood_type: O
+  handedness: right
+  hobby:
+  - "バイオリン"
+  talent:
+  - "アジリティのハンドラー"
+  favorite:
+  - "紅茶"
+  - "クッキー"
+akane:
+  idol_id: 23
+  name: "野々原 茜"
+  name_kana: "ののはら あかね"
+  age: 16
+  height: 150.0
+  weight: 42.0
+  bust: 80.0
+  waist: 58.0
+  hip: 79.0
+  birthday: 12/03
+  blood_type: AB
+  handedness: left
+  hobby:
+  - "スキップ"
+  talent:
+  - "インラインスケート"
+  favorite:
+  - "プリン"
+anna:
+  idol_id: 24
+  name: "望月 杏奈"
+  name_kana: "もちづき あんな"
+  age: 14
+  height: 152.0
+  weight: 41.0
+  bust: 78.0
+  waist: 53.0
+  hip: 79.0
+  birthday: 05/31
+  blood_type: AB
+  handedness: right
+  hobby:
+  - "オンラインゲーム"
+  talent:
+  - "タイピング"
+  favorite:
+  - "かわいいもの"
+roko:
+  idol_id: 25
+  name: "伴田 路子"
+  name_kana: "はんだ ろこ"
+  age: 15
+  height: 154.0
+  weight: 42.0
+  bust: 78.0
+  waist: 57.0
+  hip: 77.0
+  birthday: 03/01
+  blood_type: AB
+  handedness: right
+  hobby:
+  - "物を作ること"
+  talent:
+  - "目を閉じたまま歩ける"
+  favorite:
+  - "ハト"
+yuriko:
+  idol_id: 26
+  name: "七尾 百合子"
+  name_kana: "ななお ゆりこ"
+  age: 15
+  height: 154.0
+  weight: 41.0
+  bust: 78.0
+  waist: 56.0
+  hip: 80.0
+  birthday: 03/18
+  blood_type: B
+  handedness: right
+  hobby:
+  - "読書"
+  talent:
+  - "ペン回し"
+  favorite:
+  - "おはぎ"
+sayoko:
+  idol_id: 27
+  name: "高山 紗代子"
+  name_kana: "たかやま さよこ"
+  age: 17
+  height: 156.0
+  weight: 42.0
+  bust: 82.0
+  waist: 55.0
+  hip: 80.0
+  birthday: 12/29
+  blood_type: A
+  handedness: right
+  hobby:
+  - "ハリネズミの飼育"
+  talent:
+  - "一晩寝ると元気になれる"
+  favorite:
+  - "友達"
+  - "アイドル仲間"
+arisa:
+  idol_id: 28
+  name: "松田 亜利沙"
+  name_kana: "まつだ ありさ"
+  age: 16
+  height: 154.0
+  weight: 40.0
+  bust: 81.0
+  waist: 54.0
+  hip: 80.0
+  birthday: 06/07
+  blood_type: AB
+  handedness: right
+  hobby:
+  - "アイドルのデータ集め"
+  talent:
+  - "アイドルの変装を見破れる"
+  favorite:
+  - "ファミレスのデザート"
+umi:
+  idol_id: 29
+  name: "高坂 海美"
+  name_kana: "こうさか うみ"
+  age: 16
+  height: 155.0
+  weight: 45.0
+  bust: 82.0
+  waist: 57.0
+  hip: 84.0
+  birthday: 08/10
+  blood_type: O
+  handedness: right
+  hobby:
+  - "ボルダリング"
+  talent:
+  - "常人にできないポージングができる"
+  favorite:
+  - "ダンス"
+iku:
+  idol_id: 30
+  name: "中谷 育"
+  name_kana: "なかたに いく"
+  age: 10
+  height: 142.0
+  weight: 37.0
+  bust: 72.0
+  waist: 52.0
+  hip: 73.0
+  birthday: 12/16
+  blood_type: B
+  handedness: right
+  hobby:
+  - "アニメ鑑賞"
+  talent:
+  - "早起き"
+  favorite:
+  - "おかあさん"
+tomoka:
+  idol_id: 31
+  name: "天空橋 朋花"
+  name_kana: "てんくうばし ともか"
+  age: 15
+  height: 156.0
+  weight: 41.0
+  bust: 80.0
+  waist: 56.0
+  hip: 79.0
+  birthday: 11/11
+  blood_type: AB
+  handedness: left
+  hobby:
+  - "ファンに喜んでもらうこと"
+  talent:
+  - "口げんか"
+  favorite:
+  - "かわいい扇子"
+emily:
+  idol_id: 32
+  name: "エミリー スチュアート"
+  name_kana: "えみりー すちゅあーと"
+  age: 13
+  height: 156.0
+  weight: 41.0
+  bust: 74.0
+  waist: 54.0
+  hip: 76.0
+  birthday: 01/08
+  blood_type: A
+  handedness: right
+  hobby:
+  - "かるた遊び"
+  talent:
+  - "日本舞踊"
+  favorite:
+  - "抹茶"
+shiho:
+  idol_id: 33
+  name: "北沢 志保"
+  name_kana: "きたざわ しほ"
+  age: 14
+  height: 161.0
+  weight: 46.0
+  bust: 83.0
+  waist: 56.0
+  hip: 84.0
+  birthday: 01/18
+  blood_type: A
+  handedness: right
+  hobby:
+  - "お気に入りの絵本を探すこと"
+  talent:
+  - "記憶力"
+  - "集中力が高い"
+  favorite:
+  - "ぬいぐるみ"
+ayumu:
+  idol_id: 34
+  name: "舞浜 歩"
+  name_kana: "まいはま あゆむ"
+  age: 19
+  height: 158.0
+  weight: 49.9
+  bust: 86.0
+  waist: 60.0
+  hip: 88.0
+  birthday: 07/23
+  blood_type: A
+  handedness: right
+  hobby:
+  - "ショッピング"
+  talent:
+  - "ダンス"
+  favorite:
+  - "わさび"
+hinata:
+  idol_id: 35
+  name: "木下 ひなた"
+  name_kana: "きのした ひなた"
+  age: 14
+  height: 146.0
+  weight: 39.5
+  bust: 74.0
+  waist: 55.0
+  hip: 78.0
+  birthday: 07/04
+  blood_type: O
+  handedness: right
+  hobby:
+  - "ガーデニング"
+  talent:
+  - "天気を当てること"
+  favorite:
+  - "おばあちゃん"
+kana:
+  idol_id: 36
+  name: "矢吹 可奈"
+  name_kana: "やぶき かな"
+  age: 14
+  height: 155.0
+  weight: 43.0
+  bust: 77.0
+  waist: 54.0
+  hip: 76.0
+  birthday: 08/18
+  blood_type: A
+  handedness: right
+  hobby:
+  - "なんでも歌にすること"
+  talent:
+  - "合唱"
+  favorite:
+  - "屋上で歌うこと"
+nao:
+  idol_id: 37
+  name: "横山 奈緒"
+  name_kana: "よこやま なお"
+  age: 17
+  height: 159.0
+  weight: 46.0
+  bust: 84.0
+  waist: 57.0
+  hip: 83.0
+  birthday: 02/12
+  blood_type: O
+  handedness: right
+  hobby:
+  - "銭湯＆温泉巡り"
+  talent:
+  - "スタミナがある"
+  favorite:
+  - "友達とおしゃべり"
+chiduru:
+  idol_id: 38
+  name: "二階堂 千鶴"
+  name_kana: "にかいどう ちづる"
+  age: 21
+  height: 165.0
+  weight: 50.0
+  bust: 85.0
+  waist: 58.0
+  hip: 86.0
+  birthday: 10/21
+  blood_type: B
+  handedness: right
+  hobby:
+  - "カフェでアパレル誌チェック"
+  talent:
+  - "人の名前と顔を忘れない"
+  favorite:
+  - "憧れの目で見られること"
+konomi:
+  idol_id: 39
+  name: "馬場 このみ"
+  name_kana: "ばば このみ"
+  age: 24
+  height: 143.0
+  weight: 37.0
+  bust: 75.0
+  waist: 55.0
+  hip: 79.0
+  birthday: 06/12
+  blood_type: A
+  handedness: right
+  hobby:
+  - "北米ドラマ鑑賞"
+  talent:
+  - "麻雀"
+  favorite:
+  - "日本酒"
+tamaki:
+  idol_id: 40
+  name: "大神 環"
+  name_kana: "おおがみ たまき"
+  age: 12
+  height: 147.0
+  weight: 39.0
+  bust: 76.0
+  waist: 51.0
+  hip: 77.0
+  birthday: 04/29
+  blood_type: B
+  handedness: right
+  hobby:
+  - "探検"
+  talent:
+  - "石投げ"
+  favorite:
+  - "アスレチックランド"
+fuuka:
+  idol_id: 41
+  name: "豊川 風花"
+  name_kana: "とよかわ ふうか"
+  age: 22
+  height: 162.0
+  weight: 51.0
+  bust: 93.0
+  waist: 63.0
+  hip: 91.0
+  birthday: 09/02
+  blood_type: O
+  handedness: right
+  hobby:
+  - "献血"
+  talent:
+  - "息を止めること"
+  favorite:
+  - "猫"
+miya:
+  idol_id: 42
+  name: "宮尾 美也"
+  name_kana: "みやお みや"
+  age: 17
+  height: 156.0
+  weight: 46.0
+  bust: 84.0
+  waist: 58.0
+  hip: 83.0
+  birthday: 04/24
+  blood_type: O
+  handedness: right
+  hobby:
+  - "囲碁"
+  - "将棋"
+  talent:
+  - "視力が高い"
+  favorite:
+  - "サンドイッチ"
+noriko:
+  idol_id: 43
+  name: "福田 のり子"
+  name_kana: "ふくだ のりこ"
+  age: 18
+  height: 164.0
+  weight: 48.0
+  bust: 87.0
+  waist: 58.0
+  hip: 87.0
+  birthday: 03/30
+  blood_type: A
+  handedness: right
+  hobby:
+  - "格闘技観戦"
+  talent:
+  - "バイクの運転"
+  favorite:
+  - "焼肉"
+mizuki:
+  idol_id: 44
+  name: "真壁 瑞希"
+  name_kana: "まかべ みずき"
+  age: 17
+  height: 160.0
+  weight: 43.0
+  bust: 73.0
+  waist: 54.0
+  hip: 77.0
+  birthday: 01/27
+  blood_type: B
+  handedness: right
+  hobby:
+  - "手品"
+  talent:
+  - "バトントワリング"
+  favorite:
+  - "クロスワードパズル"
+karen:
+  idol_id: 45
+  name: "篠宮 可憐"
+  name_kana: "しのみや かれん"
+  age: 16
+  height: 159.0
+  weight: 48.0
+  bust: 90.0
+  waist: 59.0
+  hip: 90.0
+  birthday: 08/27
+  blood_type: AB
+  handedness: right
+  hobby:
+  - "アロマテラピー"
+  talent:
+  - "ポーカーフェイス"
+  favorite:
+  - "お風呂"
+rio:
+  idol_id: 46
+  name: "百瀬 莉緒"
+  name_kana: "ももせ りお"
+  age: 23
+  height: 168.0
+  weight: 46.0
+  bust: 84.0
+  waist: 57.0
+  hip: 84.0
+  birthday: 11/21
+  blood_type: A
+  handedness: right
+  hobby:
+  - "ヨガエクササイズ"
+  talent:
+  - "メイク"
+  favorite:
+  - "可愛くてセクシーな服"
+subaru:
+  idol_id: 47
+  name: "永吉 昴"
+  name_kana: "ながよし すばる"
+  age: 15
+  height: 154.0
+  weight: 41.0
+  bust: 79.0
+  waist: 59.0
+  hip: 78.0
+  birthday: 09/20
+  blood_type: B
+  handedness: left
+  hobby:
+  - "野球"
+  talent:
+  - "変化球"
+  favorite:
+  - "アイドル"
+reika:
+  idol_id: 48
+  name: "北上 麗花"
+  name_kana: "きたかみ れいか"
+  age: 20
+  height: 164.0
+  weight: 47.0
+  bust: 84.0
+  waist: 58.0
+  hip: 84.0
+  birthday: 05/17
+  blood_type: A
+  handedness: right
+  hobby:
+  - "登山"
+  talent:
+  - "肺活量が大きい"
+  favorite:
+  - "ドライブ"
+momoko:
+  idol_id: 49
+  name: "周防 桃子"
+  name_kana: "すおう ももこ"
+  age: 11
+  height: 140.0
+  weight: 35.0
+  bust: 73.0
+  waist: 53.0
+  hip: 74.0
+  birthday: 11/06
+  blood_type: B
+  handedness: right
+  hobby:
+  - "かわいいシール集め"
+  talent:
+  - "演技や台詞の暗記"
+  favorite:
+  - "ホットケーキ"
+juria:
+  idol_id: 50
+  name: "ジュリア"
+  name_kana: "じゅりあ"
+  age: 16
+  height: 157.0
+  weight: 43.0
+  bust: 79.0
+  waist: 54.0
+  hip: 80.0
+  birthday: 09/26
+  blood_type: O
+  handedness: left
+  hobby: 
+  talent:
+  - "ギター"
+  favorite:
+  - "パンクロック"
