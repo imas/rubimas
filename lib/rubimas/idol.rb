@@ -18,6 +18,12 @@ module Rubimas
       @age              = age
       @height           = height
       @weight           = weight
+      @bust             = bust
+      @waist            = waist
+      @hip              = hip
+      @birthday         = birthday
+      @blood_type       = blood_type
+      @handedness       = handedness
       @hobby            = hobby
       @talent           = talent
       @favorite         = favorite
