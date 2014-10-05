@@ -1,6 +1,6 @@
 # Rubimas
 
-TODO: Write a gem description
+A reference for 765PRO all stars (include million stars)
 
 ## Installation
 
@@ -18,11 +18,17 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    require 'rubimas'
+    Pro765.haruka.name
+    # "天海 春香"
+    Pro765.haruka.birthday
+    # "04/03"
+    Pro765.haruka.favorite
+    # "歌うこと"
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/rubimas/fork )
+1. Fork it ( https://github.com/millimas/rubimas/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
