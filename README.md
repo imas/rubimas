@@ -1,5 +1,7 @@
 # Rubimas
 
+[![Build Status](https://travis-ci.org/millimas/rubimas.png?branch=master)](https://travis-ci.org/millimas/rubimas)
+
 A reference for 765PRO all stars (include million stars)
 
 ## Installation
