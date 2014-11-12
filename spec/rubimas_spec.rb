@@ -64,6 +64,8 @@ describe Rubimas do
 
       with_them do
         it { expect( Pro765.send(name) ).to be_an_instance_of Rubimas::Idol }
+        it { expect { Pro765.send(name).name }.not_to raise_error }
+        it { expect { Pro765.send(name).name_kana }.not_to raise_error }
       end
     end
   end
