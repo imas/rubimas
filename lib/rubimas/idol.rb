@@ -4,14 +4,14 @@ module Rubimas
   # this is record of "config/girls.yml"
   class Idol
     attr_reader :idol_id, :name, :name_kana, :age, :height, :weight, :bust, :waist, :hip,
-                :birthday, :blood_type, :handedness, :hobby, :talent, :favorite
+                :birthday, :blood_type, :handedness, :hobby, :talent, :favorite, :color
     @@cache = {}
     @@config = nil
     @@sleep_sec = 1
 
     def initialize(idol_id: nil, name: nil, name_kana: nil, age: nil, height: nil, weight: nil,
                    bust: nil, waist: nil, hip: nil, birthday: nil, blood_type: nil, handedness: nil,
-                   hobby: [], talent: [], favorite: nil)
+                   hobby: [], talent: [], favorite: nil, color: nil)
       @idol_id          = idol_id
       @name             = name
       @name_kana        = name_kana
@@ -27,6 +27,7 @@ module Rubimas
       @hobby            = hobby
       @talent           = talent
       @favorite         = favorite
+      @color            = color
     end
 
     # @return [Hash] content of config/girls.yml
