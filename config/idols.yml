@@ -19,6 +19,7 @@ haruka:
   - "お菓子作り"
   favorite:
   - "歌うこと"
+  color: "#e22b30"
 chihaya:
   idol_id: 2
   name: "如月 千早"
@@ -38,6 +39,7 @@ chihaya:
   - "歌"
   favorite:
   - "トレーニング"
+  color: "#2743d2"
 miki:
   idol_id: 3
   name: "星井 美希"
@@ -59,6 +61,7 @@ miki:
   favorite:
   - "おにぎり"
   - "いちごババロア"
+  color: "#b4e04b"
 yukiho:
   idol_id: 4
   name: "萩原 雪歩"
@@ -78,6 +81,7 @@ yukiho:
   - "日本茶をいれること"
   favorite:
   - "ブログ"
+  color: "#d3dde9"
 yayoi:
   idol_id: 5
   name: "高槻 やよい"
@@ -99,6 +103,7 @@ yayoi:
   - "家庭菜園"
   favorite:
   - "家族"
+  color: "#f39939"
 makoto:
   idol_id: 6
   name: "菊地 真"
@@ -119,6 +124,7 @@ makoto:
   - "ダンス"
   favorite:
   - "ぬいぐるみ"
+  color: "#515558"
 iori:
   idol_id: 7
   name: "水瀬 伊織"
@@ -139,6 +145,7 @@ iori:
   - "ショッピング"
   favorite:
   - "果汁100％オレンジジュース"
+  color: "#fd99e1"
 takane:
   idol_id: 8
   name: "四条 貴音"
@@ -159,6 +166,7 @@ takane:
   - "直感"
   favorite:
   - "ラーメン"
+  color: "#a6126a"
 ritsuko:
   idol_id: 9
   name: "秋月 律子"
@@ -179,6 +187,7 @@ ritsuko:
   favorite:
   - "ゲーム"
   - "小説"
+  color: "#01a860"
 azusa:
   idol_id: 10
   name: "三浦 あずさ"
@@ -198,6 +207,7 @@ azusa:
   - "占い"
   favorite:
   - "カフェ巡り"
+  color: "#9238be"
 ami:
   idol_id: 11
   name: "双海 亜美"
@@ -218,6 +228,7 @@ ami:
   - "モノマネ"
   favorite:
   - "遊ぶこと"
+  color: "#ffe43f"
 mami:
   idol_id: 12
   name: "双海 真美"
@@ -238,6 +249,7 @@ mami:
   - "モノマネ"
   favorite:
   - "遊ぶこと"
+  color: "#ffe43f"
 hibiki:
   idol_id: 13
   name: "我那覇 響"
@@ -259,6 +271,7 @@ hibiki:
   favorite:
   - "散歩"
   - "動物"
+  color: "#01adb9"
 mirai:
   idol_id: 14
   name: "春日 未来"
@@ -278,6 +291,7 @@ mirai:
   - "歌うこと"
   favorite:
   - "ライブ"
+  color: "#ea5b76"
 shizuka:
   idol_id: 15
   name: "最上 静香"
@@ -297,6 +311,7 @@ shizuka:
   - "ピアノ"
   favorite:
   - "うどん"
+  color: "#6495cf"
 tsubasa:
   idol_id: 16
   name: "伊吹 翼"
@@ -316,6 +331,7 @@ tsubasa:
   - "じゃんけん"
   favorite:
   - "ビーフステーキ"
+  color: "#fed552"
 kotoha:
   idol_id: 17
   name: "田中 琴葉"
@@ -335,6 +351,7 @@ kotoha:
   - "フェンシング"
   favorite:
   - "アイス"
+  color: "#92cfbb"
 erena:
   idol_id: 18
   name: "島原 エレナ"
@@ -354,6 +371,7 @@ erena:
   - "サンバを踊ること"
   favorite:
   - "みんなで騒ぐこと"
+  color: "#9bce92"
 minako:
   idol_id: 19
   name: "佐竹 美奈子"
@@ -373,6 +391,7 @@ minako:
   - "料理"
   favorite:
   - "友達との長電話"
+  color: "#58a6dc"
 megumi:
   idol_id: 20
   name: "所 恵美"
@@ -392,6 +411,7 @@ megumi:
   - "人の誕生日を覚えること"
   favorite:
   - "友達"
+  color: "#454341"
 matsuri:
   idol_id: 21
   name: "徳川 まつり"
@@ -412,6 +432,7 @@ matsuri:
   favorite:
   - "焼きマシュマロ"
   - "ウミウシ"
+  color: "#5abfb7"
 serika:
   idol_id: 22
   name: "箱崎 星梨花"
@@ -432,6 +453,7 @@ serika:
   favorite:
   - "紅茶"
   - "クッキー"
+  color: "#ed90ba"
 akane:
   idol_id: 23
   name: "野々原 茜"
@@ -451,6 +473,7 @@ akane:
   - "インラインスケート"
   favorite:
   - "プリン"
+  color: "#eb613f"
 anna:
   idol_id: 24
   name: "望月 杏奈"
@@ -470,6 +493,7 @@ anna:
   - "タイピング"
   favorite:
   - "かわいいもの"
+  color: "#7e6ca8"
 roko:
   idol_id: 25
   name: "伴田 路子"
@@ -489,6 +513,7 @@ roko:
   - "目を閉じたまま歩ける"
   favorite:
   - "ハト"
+  color: "#fff03c"
 yuriko:
   idol_id: 26
   name: "七尾 百合子"
@@ -508,6 +533,7 @@ yuriko:
   - "ペン回し"
   favorite:
   - "おはぎ"
+  color: "#c7b83c"
 sayoko:
   idol_id: 27
   name: "高山 紗代子"
@@ -528,6 +554,7 @@ sayoko:
   favorite:
   - "友達"
   - "アイドル仲間"
+  color: "#7f6575"
 arisa:
   idol_id: 28
   name: "松田 亜利沙"
@@ -547,6 +574,7 @@ arisa:
   - "アイドルの変装を見破れる"
   favorite:
   - "ファミレスのデザート"
+  color: "#b54461"
 umi:
   idol_id: 29
   name: "高坂 海美"
@@ -566,6 +594,7 @@ umi:
   - "常人にできないポージングができる"
   favorite:
   - "ダンス"
+  color: "#e9739b"
 iku:
   idol_id: 30
   name: "中谷 育"
@@ -585,6 +614,7 @@ iku:
   - "早起き"
   favorite:
   - "おかあさん"
+  color: "#f7e78e"
 tomoka:
   idol_id: 31
   name: "天空橋 朋花"
@@ -604,6 +634,7 @@ tomoka:
   - "口げんか"
   favorite:
   - "かわいい扇子"
+  color: "#bee3e3"
 emily:
   idol_id: 32
   name: "エミリー スチュアート"
@@ -623,6 +654,7 @@ emily:
   - "日本舞踊"
   favorite:
   - "抹茶"
+  color: "#554171"
 shiho:
   idol_id: 33
   name: "北沢 志保"
@@ -643,6 +675,7 @@ shiho:
   - "集中力が高い"
   favorite:
   - "ぬいぐるみ"
+  color: "#afa690"
 ayumu:
   idol_id: 34
   name: "舞浜 歩"
@@ -662,6 +695,7 @@ ayumu:
   - "ダンス"
   favorite:
   - "わさび"
+  color: "#e25a9b"
 hinata:
   idol_id: 35
   name: "木下 ひなた"
@@ -681,6 +715,7 @@ hinata:
   - "天気を当てること"
   favorite:
   - "おばあちゃん"
+  color: "#d1342c"
 kana:
   idol_id: 36
   name: "矢吹 可奈"
@@ -700,6 +735,7 @@ kana:
   - "合唱"
   favorite:
   - "屋上で歌うこと"
+  color: "#f5ad3b"
 nao:
   idol_id: 37
   name: "横山 奈緒"
@@ -719,6 +755,7 @@ nao:
   - "スタミナがある"
   favorite:
   - "友達とおしゃべり"
+  color: "#788bc5"
 chiduru:
   idol_id: 38
   name: "二階堂 千鶴"
@@ -738,6 +775,7 @@ chiduru:
   - "人の名前と顔を忘れない"
   favorite:
   - "憧れの目で見られること"
+  color: "#f19557"
 konomi:
   idol_id: 39
   name: "馬場 このみ"
@@ -757,6 +795,7 @@ konomi:
   - "麻雀"
   favorite:
   - "日本酒"
+  color: "#f1becb"
 tamaki:
   idol_id: 40
   name: "大神 環"
@@ -776,6 +815,7 @@ tamaki:
   - "石投げ"
   favorite:
   - "アスレチックランド"
+  color: "#ee762e"
 fuuka:
   idol_id: 41
   name: "豊川 風花"
@@ -795,6 +835,7 @@ fuuka:
   - "息を止めること"
   favorite:
   - "猫"
+  color: "#7278a8"
 miya:
   idol_id: 42
   name: "宮尾 美也"
@@ -815,6 +856,7 @@ miya:
   - "視力が高い"
   favorite:
   - "サンドイッチ"
+  color: "#d7a96b"
 noriko:
   idol_id: 43
   name: "福田 のり子"
@@ -834,6 +876,7 @@ noriko:
   - "バイクの運転"
   favorite:
   - "焼肉"
+  color: "#eceb70"
 mizuki:
   idol_id: 44
   name: "真壁 瑞希"
@@ -853,6 +896,7 @@ mizuki:
   - "バトントワリング"
   favorite:
   - "クロスワードパズル"
+  color: "#99b7dc"
 karen:
   idol_id: 45
   name: "篠宮 可憐"
@@ -872,6 +916,7 @@ karen:
   - "ポーカーフェイス"
   favorite:
   - "お風呂"
+  color: "#b63b40"
 rio:
   idol_id: 46
   name: "百瀬 莉緒"
@@ -891,6 +936,7 @@ rio:
   - "メイク"
   favorite:
   - "可愛くてセクシーな服"
+  color: "#f19591"
 subaru:
   idol_id: 47
   name: "永吉 昴"
@@ -910,6 +956,7 @@ subaru:
   - "変化球"
   favorite:
   - "アイドル"
+  color: "#aeb49c"
 reika:
   idol_id: 48
   name: "北上 麗花"
@@ -929,6 +976,7 @@ reika:
   - "肺活量が大きい"
   favorite:
   - "ドライブ"
+  color: "#6bb6b0"
 momoko:
   idol_id: 49
   name: "周防 桃子"
@@ -948,6 +996,7 @@ momoko:
   - "演技や台詞の暗記"
   favorite:
   - "ホットケーキ"
+  color: "#efb864"
 juria:
   idol_id: 50
   name: "ジュリア"
@@ -966,3 +1015,4 @@ juria:
   - "ギター"
   favorite:
   - "パンクロック"
+  color: "#d7385f"
