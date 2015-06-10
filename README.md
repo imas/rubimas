@@ -1,6 +1,6 @@
 # Rubimas
 
-[![Build Status](https://travis-ci.org/millimas/rubimas.png?branch=master)](https://travis-ci.org/millimas/rubimas)
+[![Build Status](https://travis-ci.org/imas/rubimas.png?branch=master)](https://travis-ci.org/imas/rubimas)
 
 A reference for 765PRO all stars (include million stars)
 
@@ -30,7 +30,7 @@ Or install it yourself as:
 
 ## Contributing
 
-1. Fork it ( https://github.com/millimas/rubimas/fork )
+1. Fork it ( https://github.com/imas/rubimas/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
