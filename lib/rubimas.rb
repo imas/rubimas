@@ -3,11 +3,17 @@ require 'yaml'
 require 'hashie'
 require "rubimas/version"
 require "rubimas/idol"
-require "rubimas/pro765"
 require "rubimas/core_ext/fixnum"
 
 module Rubimas
-  def self.core
-    Rubimas::Core.instance
+end
+
+module Pro765
+  def self.method_missing(name, *args)
+    if Rubimas::Idol.valid?(name)
+      Rubimas::Idol.find(name)
+    else
+      super
+    end
   end
 end
