@@ -25,8 +25,8 @@ Or install it yourself as:
     # "天海 春香"
     Pro765.haruka.birthday
     # "04/03"
-    Pro765.haruka.favorite
-    # "歌うこと"
+    Pro765.haruka.favorites
+    # ["歌うこと"]
 
 ## Contributing
 
