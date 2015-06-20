@@ -1,13 +1,9 @@
 module Rubimas
-  # Precure girl (ex. Cure Peace, Cure Rosetta, Cure Honey)
-  #
-  # this is record of "config/girls.yml"
   class Idol
     attr_reader :idol_id, :name, :name_kana, :age, :height, :weight, :bust, :waist, :hip,
                 :birthday, :blood_type, :handedness, :hobbies, :talents, :favorites, :color
     @@cache = {}
     @@config = nil
-    @@sleep_sec = 1
 
     def initialize(idol_id: nil, name: nil, name_kana: nil, age: nil, height: nil, weight: nil,
                    bust: nil, waist: nil, hip: nil, birthday: nil, blood_type: nil, handedness: nil,
@@ -30,7 +26,7 @@ module Rubimas
       @color            = color
     end
 
-    # @return [Hash] content of config/girls.yml
+    # @return [Hash] content of config/idols.yml
     def self.config
       unless @@config
         config_file = "#{File.dirname(__FILE__)}/../../config/idols.yml"
@@ -47,7 +43,7 @@ module Rubimas
     # @param idol_name [Symbol]
     # @return [Rubimas::Idol]
     def self.find(idol_name)
-      raise "unknown girl: #{idol_name}" unless valid?(idol_name)
+      raise "unknown idol: #{idol_name}" unless valid?(idol_name)
 
       unless @@cache[idol_name]
         idol_config = config[idol_name] || {}
