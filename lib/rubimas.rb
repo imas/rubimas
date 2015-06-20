@@ -4,6 +4,7 @@ require 'hashie'
 require "rubimas/version"
 require "rubimas/idol"
 require "rubimas/pro765"
+require "rubimas/core_ext/fixnum"
 
 module Rubimas
   def self.core
