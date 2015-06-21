@@ -4,6 +4,8 @@
 
 A reference for 765PRO all stars (include million stars)
 
+This gem is inspired by [sue445/rubicure](https://github.com/sue445/rubicure) strongly.
+
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -21,12 +23,16 @@ Or install it yourself as:
 ## Usage
 
     require 'rubimas'
-    Pro765.haruka.name
+    765.pro.haruka.name
     # "天海 春香"
-    Pro765.haruka.birthday
+    765.pro.haruka.birthday
     # "04/03"
-    Pro765.haruka.favorites
+    765.pro.haruka.favorites
     # ["歌うこと"]
+
+    # idol_id search
+    765.pro.find_by_id(39).name
+    # "馬場このみ"
 
 ## Contributing
 
