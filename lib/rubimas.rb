@@ -16,4 +16,8 @@ module Pro765
       super
     end
   end
+
+  def self.find_by_id(idol_id)
+    Rubimas::Idol.find_by_id(idol_id)
+  end
 end

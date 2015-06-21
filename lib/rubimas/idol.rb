@@ -3,6 +3,7 @@ module Rubimas
     attr_reader :idol_id, :name, :name_kana, :age, :height, :weight, :bust, :waist, :hip,
                 :birthday, :blood_type, :handedness, :hobbies, :talents, :favorites, :color
     @@cache = {}
+    @@id_cache = {}
     @@config = nil
 
     def initialize(idol_id: nil, name: nil, name_kana: nil, age: nil, height: nil, weight: nil,
@@ -51,6 +52,17 @@ module Rubimas
       end
 
       @@cache[idol_name]
+    end
+
+    # @param idol_id [Fixnum]
+    # @return [Rubimas::Idol]
+    def self.find_by_id(idol_id)
+      unless @@id_cache[idol_id]
+        idol_config = config.select { |k, v| v[:idol_id] == idol_id }.values.first
+        @@id_cache[idol_id] = Rubimas::Idol.new(idol_config)
+      end
+
+      @@id_cache[idol_id]
     end
 
     # @param [Symbol] idol_name
