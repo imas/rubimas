@@ -3,6 +3,7 @@ require 'yaml'
 require 'hashie'
 require "rubimas/version"
 require "rubimas/idol"
+require "rubimas/idol/name"
 require "rubimas/core_ext/fixnum"
 
 module Rubimas

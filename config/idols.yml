@@ -1,8 +1,12 @@
 ---
 haruka:
   idol_id: 1
-  name: "天海 春香"
-  name_kana: "あまみ はるか"
+  name:
+    family: "天海"
+    family_kana: "あまみ"
+    given: "春香"
+    given_kana: "はるか"
+    shorten: "春香"
   age: 17
   height: 158.0
   weight: 46.0
@@ -22,8 +26,12 @@ haruka:
   color: "#e22b30"
 chihaya:
   idol_id: 2
-  name: "如月 千早"
-  name_kana: "きさらぎ ちはや"
+  name:
+    family: "如月"
+    family_kana: "きさらぎ"
+    given: "千早"
+    given_kana: "ちはや"
+    shorten: "千早"
   age: 16
   height: 162.0
   weight: 41.0
@@ -42,8 +50,12 @@ chihaya:
   color: "#2743d2"
 miki:
   idol_id: 3
-  name: "星井 美希"
-  name_kana: "ほしい みき"
+  name:
+    family: "星井"
+    family_kana: "ほしい"
+    given: "美希"
+    given_kana: "みき"
+    shorten: "美希"
   age: 15
   height: 161.0
   weight: 45.0
@@ -64,8 +76,12 @@ miki:
   color: "#b4e04b"
 yukiho:
   idol_id: 4
-  name: "萩原 雪歩"
-  name_kana: "はぎわら ゆきほ"
+  name:
+    family: "萩原"
+    family_kana: "はぎわら"
+    given: "雪歩"
+    given_kana: "ゆきほ"
+    shorten: "雪歩"
   age: 17
   height: 155.0
   weight: 42.0
@@ -84,8 +100,12 @@ yukiho:
   color: "#d3dde9"
 yayoi:
   idol_id: 5
-  name: "高槻 やよい"
-  name_kana: "たかつき やよい"
+  name:
+    family: "高槻"
+    family_kana: "たかつき"
+    given: "やよい"
+    given_kana: "やよい"
+    shorten: "やよい"
   age: 14
   height: 145.0
   weight: 37.0
@@ -106,8 +126,12 @@ yayoi:
   color: "#f39939"
 makoto:
   idol_id: 6
-  name: "菊地 真"
-  name_kana: "きくち まこと"
+  name:
+    family: "菊地"
+    family_kana: "きくち"
+    given: "真"
+    given_kana: "まこと"
+    shorten: "真"
   age: 17
   height: 159.0
   weight: 44.0
@@ -127,8 +151,12 @@ makoto:
   color: "#515558"
 iori:
   idol_id: 7
-  name: "水瀬 伊織"
-  name_kana: "みなせ いおり"
+  name:
+    family: "水瀬"
+    family_kana: "みなせ"
+    given: "伊織"
+    given_kana: "いおり"
+    shorten: "伊織"
   age: 15
   height: 153.0
   weight: 40.0
@@ -148,8 +176,12 @@ iori:
   color: "#fd99e1"
 takane:
   idol_id: 8
-  name: "四条 貴音"
-  name_kana: "しじょう たかね"
+  name:
+    family: "四条"
+    family_kana: "しじょう"
+    given: "貴音"
+    given_kana: "たかね"
+    shorten: "貴音"
   age: 18
   height: 169.0
   weight: 49.0
@@ -169,8 +201,12 @@ takane:
   color: "#a6126a"
 ritsuko:
   idol_id: 9
-  name: "秋月 律子"
-  name_kana: "あきづき りつこ"
+  name:
+    family: "秋月"
+    family_kana: "あきづき"
+    given: "律子"
+    given_kana: "りつこ"
+    shorten: "律子"
   age: 19
   height: 156.0
   weight: 43.0
@@ -190,8 +226,12 @@ ritsuko:
   color: "#01a860"
 azusa:
   idol_id: 10
-  name: "三浦 あずさ"
-  name_kana: "みうら あずさ"
+  name:
+    family: "三浦"
+    family_kana: "みうら"
+    given: "あずさ"
+    given_kana: "あずさ"
+    shorten: "あずさ"
   age: 21
   height: 168.0
   weight: 48.0
@@ -210,8 +250,12 @@ azusa:
   color: "#9238be"
 ami:
   idol_id: 11
-  name: "双海 亜美"
-  name_kana: "ふたみ あみ"
+  name:
+    family: "双海"
+    family_kana: "ふたみ"
+    given: "亜美"
+    given_kana: "あみ"
+    shorten: "亜美"
   age: 13
   height: 158.0
   weight: 42.0
@@ -231,8 +275,12 @@ ami:
   color: "#ffe43f"
 mami:
   idol_id: 12
-  name: "双海 真美"
-  name_kana: "ふたみ まみ"
+  name:
+    family: "双海"
+    family_kana: "ふたみ"
+    given: "真美"
+    given_kana: "まみ"
+    shorten: "真美"
   age: 13
   height: 158.0
   weight: 42.0
@@ -252,8 +300,12 @@ mami:
   color: "#ffe43f"
 hibiki:
   idol_id: 13
-  name: "我那覇 響"
-  name_kana: "がなは ひびき"
+  name:
+    family: "我那覇"
+    family_kana: "がなは"
+    given: "響"
+    given_kana: "ひびき"
+    shorten: "響"
   age: 16
   height: 152.0
   weight: 41.0
@@ -274,8 +326,12 @@ hibiki:
   color: "#01adb9"
 mirai:
   idol_id: 14
-  name: "春日 未来"
-  name_kana: "かすが みらい"
+  name:
+    family: "春日"
+    family_kana: "かすが"
+    given: "未来"
+    given_kana: "みらい"
+    shorten: "未来"
   age: 14
   height: 156.0
   weight: 42.0
@@ -294,8 +350,12 @@ mirai:
   color: "#ea5b76"
 shizuka:
   idol_id: 15
-  name: "最上 静香"
-  name_kana: "もがみ しずか"
+  name:
+    family: "最上"
+    family_kana: "もがみ"
+    given: "静香"
+    given_kana: "しずか"
+    shorten: "静香"
   age: 14
   height: 162.0
   weight: 44.0
@@ -314,8 +374,12 @@ shizuka:
   color: "#6495cf"
 tsubasa:
   idol_id: 16
-  name: "伊吹 翼"
-  name_kana: "いぶき つばさ"
+  name:
+    family: "伊吹"
+    family_kana: "いぶき"
+    given: "翼"
+    given_kana: "つばさ"
+    shorten: "翼"
   age: 14
   height: 158.0
   weight: 43.0
@@ -334,8 +398,12 @@ tsubasa:
   color: "#fed552"
 kotoha:
   idol_id: 17
-  name: "田中 琴葉"
-  name_kana: "たなか ことは"
+  name:
+    family: "田中"
+    family_kana: "たなか"
+    given: "琴葉"
+    given_kana: "ことは"
+    shorten: "琴葉"
   age: 18
   height: 157.0
   weight: 44.0
@@ -354,8 +422,12 @@ kotoha:
   color: "#92cfbb"
 erena:
   idol_id: 18
-  name: "島原 エレナ"
-  name_kana: "しまばら えれな"
+  name:
+    family: "島原"
+    family_kana: "しまばら"
+    given: "エレナ"
+    given_kana: "えれな"
+    shorten: "エレナ"
   age: 17
   height: 160.0
   weight: 47.0
@@ -374,8 +446,12 @@ erena:
   color: "#9bce92"
 minako:
   idol_id: 19
-  name: "佐竹 美奈子"
-  name_kana: "さたけ みなこ"
+  name:
+    family: "佐竹"
+    family_kana: "さたけ"
+    given: "美奈子"
+    given_kana: "みなこ"
+    shorten: "美奈子"
   age: 18
   height: 158.0
   weight: 45.0
@@ -394,8 +470,12 @@ minako:
   color: "#58a6dc"
 megumi:
   idol_id: 20
-  name: "所 恵美"
-  name_kana: "ところ めぐみ"
+  name:
+    family: "所"
+    family_kana: "ところ"
+    given: "恵美"
+    given_kana: "めぐみ"
+    shorten: "恵美"
   age: 16
   height: 159.0
   weight: 47.0
@@ -414,8 +494,12 @@ megumi:
   color: "#454341"
 matsuri:
   idol_id: 21
-  name: "徳川 まつり"
-  name_kana: "とくがわ まつり"
+  name:
+    family: "徳川"
+    family_kana: "とくがわ"
+    given: "まつり"
+    given_kana: "まつり"
+    shorten: "まつり"
   age: 19
   height: 163.0
   weight: 44.0
@@ -435,8 +519,12 @@ matsuri:
   color: "#5abfb7"
 serika:
   idol_id: 22
-  name: "箱崎 星梨花"
-  name_kana: "はこざき せりか"
+  name:
+    family: "箱崎"
+    family_kana: "はこざき"
+    given: "星梨花"
+    given_kana: "せりか"
+    shorten: "星梨花"
   age: 13
   height: 146.0
   weight: 37.0
@@ -456,8 +544,12 @@ serika:
   color: "#ed90ba"
 akane:
   idol_id: 23
-  name: "野々原 茜"
-  name_kana: "ののはら あかね"
+  name:
+    family: "野々原"
+    family_kana: "ののはら"
+    given: "茜"
+    given_kana: "あかね"
+    shorten: "茜"
   age: 16
   height: 150.0
   weight: 42.0
@@ -476,8 +568,12 @@ akane:
   color: "#eb613f"
 anna:
   idol_id: 24
-  name: "望月 杏奈"
-  name_kana: "もちづき あんな"
+  name:
+    family: "望月"
+    family_kana: "もちづき"
+    given: "杏奈"
+    given_kana: "あんな"
+    shorten: "杏奈"
   age: 14
   height: 152.0
   weight: 41.0
@@ -496,8 +592,13 @@ anna:
   color: "#7e6ca8"
 roko:
   idol_id: 25
-  name: "伴田 路子"
-  name_kana: "はんだ ろこ"
+  name:
+    aka: "ロコ"
+    family: "伴田"
+    family_kana: "はんだ"
+    given: "路子"
+    given_kana: "ろこ"
+    shorten: "ロコ"
   age: 15
   height: 154.0
   weight: 42.0
@@ -516,8 +617,12 @@ roko:
   color: "#fff03c"
 yuriko:
   idol_id: 26
-  name: "七尾 百合子"
-  name_kana: "ななお ゆりこ"
+  name:
+    family: "七尾"
+    family_kana: "ななお"
+    given: "百合子"
+    given_kana: "ゆりこ"
+    shorten: "百合子"
   age: 15
   height: 154.0
   weight: 41.0
@@ -536,8 +641,12 @@ yuriko:
   color: "#c7b83c"
 sayoko:
   idol_id: 27
-  name: "高山 紗代子"
-  name_kana: "たかやま さよこ"
+  name:
+    family: "高山"
+    family_kana: "たかやま"
+    given: "紗代子"
+    given_kana: "さよこ"
+    shorten: "紗代子"
   age: 17
   height: 156.0
   weight: 42.0
@@ -557,8 +666,12 @@ sayoko:
   color: "#7f6575"
 arisa:
   idol_id: 28
-  name: "松田 亜利沙"
-  name_kana: "まつだ ありさ"
+  name:
+    family: "松田"
+    family_kana: "まつだ"
+    given: "亜利沙"
+    given_kana: "ありさ"
+    shorten: "亜利沙"
   age: 16
   height: 154.0
   weight: 40.0
@@ -577,8 +690,12 @@ arisa:
   color: "#b54461"
 umi:
   idol_id: 29
-  name: "高坂 海美"
-  name_kana: "こうさか うみ"
+  name:
+    family: "高坂"
+    family_kana: "こうさか"
+    given: "海美"
+    given_kana: "うみ"
+    shorten: "海美"
   age: 16
   height: 155.0
   weight: 45.0
@@ -597,8 +714,12 @@ umi:
   color: "#e9739b"
 iku:
   idol_id: 30
-  name: "中谷 育"
-  name_kana: "なかたに いく"
+  name:
+    family: "中谷"
+    family_kana: "なかたに"
+    given: "育"
+    given_kana: "いく"
+    shorten: "育"
   age: 10
   height: 142.0
   weight: 37.0
@@ -617,8 +738,12 @@ iku:
   color: "#f7e78e"
 tomoka:
   idol_id: 31
-  name: "天空橋 朋花"
-  name_kana: "てんくうばし ともか"
+  name:
+    family: "天空橋"
+    family_kana: "てんくうばし"
+    given: "朋花"
+    given_kana: "ともか"
+    shorten: "朋花"
   age: 15
   height: 156.0
   weight: 41.0
@@ -637,8 +762,12 @@ tomoka:
   color: "#bee3e3"
 emily:
   idol_id: 32
-  name: "エミリー スチュアート"
-  name_kana: "えみりー すちゅあーと"
+  name:
+    family: "エミリー"
+    family_kana: "えみりー"
+    given: "スチュアート"
+    given_kana: "すちゅあーと"
+    shorten: "エミリー"
   age: 13
   height: 156.0
   weight: 41.0
@@ -657,8 +786,12 @@ emily:
   color: "#554171"
 shiho:
   idol_id: 33
-  name: "北沢 志保"
-  name_kana: "きたざわ しほ"
+  name:
+    family: "北沢"
+    family_kana: "きたざわ"
+    given: "志保"
+    given_kana: "しほ"
+    shorten: "志保"
   age: 14
   height: 161.0
   weight: 46.0
@@ -678,8 +811,12 @@ shiho:
   color: "#afa690"
 ayumu:
   idol_id: 34
-  name: "舞浜 歩"
-  name_kana: "まいはま あゆむ"
+  name:
+    family: "舞浜"
+    family_kana: "まいはま"
+    given: "歩"
+    given_kana: "あゆむ"
+    shorten: "歩"
   age: 19
   height: 158.0
   weight: 49.9
@@ -698,8 +835,12 @@ ayumu:
   color: "#e25a9b"
 hinata:
   idol_id: 35
-  name: "木下 ひなた"
-  name_kana: "きのした ひなた"
+  name:
+    family: "木下"
+    family_kana: "きのした"
+    given: "ひなた"
+    given_kana: "ひなた"
+    shorten: "ひなた"
   age: 14
   height: 146.0
   weight: 39.5
@@ -718,8 +859,12 @@ hinata:
   color: "#d1342c"
 kana:
   idol_id: 36
-  name: "矢吹 可奈"
-  name_kana: "やぶき かな"
+  name:
+    family: "矢吹"
+    family_kana: "やぶき"
+    given: "可奈"
+    given_kana: "かな"
+    shorten: "可奈"
   age: 14
   height: 155.0
   weight: 43.0
@@ -738,8 +883,12 @@ kana:
   color: "#f5ad3b"
 nao:
   idol_id: 37
-  name: "横山 奈緒"
-  name_kana: "よこやま なお"
+  name:
+    family: "横山"
+    family_kana: "よこやま"
+    given: "奈緒"
+    given_kana: "なお"
+    shorten: "奈緒"
   age: 17
   height: 159.0
   weight: 46.0
@@ -758,8 +907,12 @@ nao:
   color: "#788bc5"
 chiduru:
   idol_id: 38
-  name: "二階堂 千鶴"
-  name_kana: "にかいどう ちづる"
+  name:
+    family: "二階堂"
+    family_kana: "にかいどう"
+    given: "千鶴"
+    given_kana: "ちづる"
+    shorten: "千鶴"
   age: 21
   height: 165.0
   weight: 50.0
@@ -778,8 +931,12 @@ chiduru:
   color: "#f19557"
 konomi:
   idol_id: 39
-  name: "馬場 このみ"
-  name_kana: "ばば このみ"
+  name:
+    family: "馬場"
+    family_kana: "ばば"
+    given: "このみ"
+    given_kana: "このみ"
+    shorten: "このみ"
   age: 24
   height: 143.0
   weight: 37.0
@@ -798,8 +955,12 @@ konomi:
   color: "#f1becb"
 tamaki:
   idol_id: 40
-  name: "大神 環"
-  name_kana: "おおがみ たまき"
+  name:
+    family: "大神"
+    family_kana: "おおがみ"
+    given: "環"
+    given_kana: "たまき"
+    shorten: "環"
   age: 12
   height: 147.0
   weight: 39.0
@@ -818,8 +979,12 @@ tamaki:
   color: "#ee762e"
 fuuka:
   idol_id: 41
-  name: "豊川 風花"
-  name_kana: "とよかわ ふうか"
+  name:
+    family: "豊川"
+    family_kana: "とよかわ"
+    given: "風花"
+    given_kana: "ふうか"
+    shorten: "風花"
   age: 22
   height: 162.0
   weight: 51.0
@@ -838,8 +1003,12 @@ fuuka:
   color: "#7278a8"
 miya:
   idol_id: 42
-  name: "宮尾 美也"
-  name_kana: "みやお みや"
+  name:
+    family: "宮尾"
+    family_kana: "みやお"
+    given: "美也"
+    given_kana: "みや"
+    shorten: "美也"
   age: 17
   height: 156.0
   weight: 46.0
@@ -859,8 +1028,12 @@ miya:
   color: "#d7a96b"
 noriko:
   idol_id: 43
-  name: "福田 のり子"
-  name_kana: "ふくだ のりこ"
+  name:
+    family: "福田"
+    family_kana: "ふくだ"
+    given: "のり子"
+    given_kana: "のりこ"
+    shorten: "のり子"
   age: 18
   height: 164.0
   weight: 48.0
@@ -879,8 +1052,12 @@ noriko:
   color: "#eceb70"
 mizuki:
   idol_id: 44
-  name: "真壁 瑞希"
-  name_kana: "まかべ みずき"
+  name:
+    family: "真壁"
+    family_kana: "まかべ"
+    given: "瑞希"
+    given_kana: "みずき"
+    shorten: "瑞希"
   age: 17
   height: 160.0
   weight: 43.0
@@ -899,8 +1076,12 @@ mizuki:
   color: "#99b7dc"
 karen:
   idol_id: 45
-  name: "篠宮 可憐"
-  name_kana: "しのみや かれん"
+  name:
+    family: "篠宮"
+    family_kana: "しのみや"
+    given: "可憐"
+    given_kana: "かれん"
+    shorten: "可憐"
   age: 16
   height: 159.0
   weight: 48.0
@@ -919,8 +1100,12 @@ karen:
   color: "#b63b40"
 rio:
   idol_id: 46
-  name: "百瀬 莉緒"
-  name_kana: "ももせ りお"
+  name:
+    family: "百瀬"
+    family_kana: "ももせ"
+    given: "莉緒"
+    given_kana: "りお"
+    shorten: "莉緒"
   age: 23
   height: 168.0
   weight: 46.0
@@ -939,8 +1124,12 @@ rio:
   color: "#f19591"
 subaru:
   idol_id: 47
-  name: "永吉 昴"
-  name_kana: "ながよし すばる"
+  name:
+    family: "永吉"
+    family_kana: "ながよし"
+    given: "昴"
+    given_kana: "すばる"
+    shorten: "昴"
   age: 15
   height: 154.0
   weight: 41.0
@@ -959,8 +1148,12 @@ subaru:
   color: "#aeb49c"
 reika:
   idol_id: 48
-  name: "北上 麗花"
-  name_kana: "きたかみ れいか"
+  name:
+    family: "北上"
+    family_kana: "きたかみ"
+    given: "麗花"
+    given_kana: "れいか"
+    shorten: "麗花"
   age: 20
   height: 164.0
   weight: 47.0
@@ -979,8 +1172,12 @@ reika:
   color: "#6bb6b0"
 momoko:
   idol_id: 49
-  name: "周防 桃子"
-  name_kana: "すおう ももこ"
+  name:
+    family: "周防"
+    family_kana: "すおう"
+    given: "桃子"
+    given_kana: "ももこ"
+    shorten: "桃子"
   age: 11
   height: 140.0
   weight: 35.0
@@ -999,8 +1196,9 @@ momoko:
   color: "#efb864"
 juria:
   idol_id: 50
-  name: "ジュリア"
-  name_kana: "じゅりあ"
+  name:
+    aka: "ジュリア"
+    shorten: "ジュリア"
   age: 16
   height: 157.0
   weight: 43.0
