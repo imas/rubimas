@@ -1,15 +1,16 @@
 module Rubimas
   class Idol
-    attr_reader :idol_id, :name, :age, :height, :weight, :bust, :waist, :hip,
+    attr_reader :idol_id, :idol_type, :name, :age, :height, :weight, :bust, :waist, :hip,
                 :birthday, :blood_type, :handedness, :hobbies, :talents, :favorites, :color
     @@cache = {}
     @@id_cache = {}
     @@config = nil
 
-    def initialize(idol_id: nil, name: nil, age: nil, height: nil, weight: nil,
+    def initialize(idol_id: nil, idol_type: nil, name: nil, age: nil, height: nil, weight: nil,
                    bust: nil, waist: nil, hip: nil, birthday: nil, blood_type: nil, handedness: nil,
                    hobbies: [], talents: [], favorites: [], color: nil)
       @idol_id          = idol_id
+      @idol_type        = idol_type
       @name             = Name.new(name)
       @age              = age
       @height           = height

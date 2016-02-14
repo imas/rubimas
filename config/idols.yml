@@ -1,6 +1,7 @@
 ---
 haruka:
   idol_id: 1
+  idol_type: Vo
   name:
     family: "天海"
     family_kana: "あまみ"
@@ -26,6 +27,7 @@ haruka:
   color: "#e22b30"
 chihaya:
   idol_id: 2
+  idol_type: Vo
   name:
     family: "如月"
     family_kana: "きさらぎ"
@@ -50,6 +52,7 @@ chihaya:
   color: "#2743d2"
 miki:
   idol_id: 3
+  idol_type: Vi
   name:
     family: "星井"
     family_kana: "ほしい"
@@ -76,6 +79,7 @@ miki:
   color: "#b4e04b"
 yukiho:
   idol_id: 4
+  idol_type: Vi
   name:
     family: "萩原"
     family_kana: "はぎわら"
@@ -100,6 +104,7 @@ yukiho:
   color: "#d3dde9"
 yayoi:
   idol_id: 5
+  idol_type: Da
   name:
     family: "高槻"
     family_kana: "たかつき"
@@ -126,6 +131,7 @@ yayoi:
   color: "#f39939"
 makoto:
   idol_id: 6
+  idol_type: Da
   name:
     family: "菊地"
     family_kana: "きくち"
@@ -151,6 +157,7 @@ makoto:
   color: "#515558"
 iori:
   idol_id: 7
+  idol_type: Vo
   name:
     family: "水瀬"
     family_kana: "みなせ"
@@ -176,6 +183,7 @@ iori:
   color: "#fd99e1"
 takane:
   idol_id: 8
+  idol_type: Vo
   name:
     family: "四条"
     family_kana: "しじょう"
@@ -201,6 +209,7 @@ takane:
   color: "#a6126a"
 ritsuko:
   idol_id: 9
+  idol_type: Vi
   name:
     family: "秋月"
     family_kana: "あきづき"
@@ -226,6 +235,7 @@ ritsuko:
   color: "#01a860"
 azusa:
   idol_id: 10
+  idol_type: Vo
   name:
     family: "三浦"
     family_kana: "みうら"
@@ -250,6 +260,7 @@ azusa:
   color: "#9238be"
 ami:
   idol_id: 11
+  idol_type: Vi
   name:
     family: "双海"
     family_kana: "ふたみ"
@@ -275,6 +286,7 @@ ami:
   color: "#ffe43f"
 mami:
   idol_id: 12
+  idol_type: Vi
   name:
     family: "双海"
     family_kana: "ふたみ"
@@ -300,6 +312,7 @@ mami:
   color: "#ffe43f"
 hibiki:
   idol_id: 13
+  idol_type: Da
   name:
     family: "我那覇"
     family_kana: "がなは"
@@ -326,6 +339,7 @@ hibiki:
   color: "#01adb9"
 mirai:
   idol_id: 14
+  idol_type: Vo
   name:
     family: "春日"
     family_kana: "かすが"
@@ -350,6 +364,7 @@ mirai:
   color: "#ea5b76"
 shizuka:
   idol_id: 15
+  idol_type: Vo
   name:
     family: "最上"
     family_kana: "もがみ"
@@ -374,6 +389,7 @@ shizuka:
   color: "#6495cf"
 tsubasa:
   idol_id: 16
+  idol_type: Vi
   name:
     family: "伊吹"
     family_kana: "いぶき"
@@ -398,6 +414,7 @@ tsubasa:
   color: "#fed552"
 kotoha:
   idol_id: 17
+  idol_type: Vo
   name:
     family: "田中"
     family_kana: "たなか"
@@ -422,6 +439,7 @@ kotoha:
   color: "#92cfbb"
 erena:
   idol_id: 18
+  idol_type: Da
   name:
     family: "島原"
     family_kana: "しまばら"
@@ -446,6 +464,7 @@ erena:
   color: "#9bce92"
 minako:
   idol_id: 19
+  idol_type: Da
   name:
     family: "佐竹"
     family_kana: "さたけ"
@@ -470,6 +489,7 @@ minako:
   color: "#58a6dc"
 megumi:
   idol_id: 20
+  idol_type: Vi
   name:
     family: "所"
     family_kana: "ところ"
@@ -494,6 +514,7 @@ megumi:
   color: "#454341"
 matsuri:
   idol_id: 21
+  idol_type: Vi
   name:
     family: "徳川"
     family_kana: "とくがわ"
@@ -519,6 +540,7 @@ matsuri:
   color: "#5abfb7"
 serika:
   idol_id: 22
+  idol_type: Vo
   name:
     family: "箱崎"
     family_kana: "はこざき"
@@ -544,6 +566,7 @@ serika:
   color: "#ed90ba"
 akane:
   idol_id: 23
+  idol_type: Da
   name:
     family: "野々原"
     family_kana: "ののはら"
@@ -568,6 +591,7 @@ akane:
   color: "#eb613f"
 anna:
   idol_id: 24
+  idol_type: Vo
   name:
     family: "望月"
     family_kana: "もちづき"
@@ -592,6 +616,7 @@ anna:
   color: "#7e6ca8"
 roko:
   idol_id: 25
+  idol_type: Vi
   name:
     aka: "ロコ"
     family: "伴田"
@@ -617,6 +642,7 @@ roko:
   color: "#fff03c"
 yuriko:
   idol_id: 26
+  idol_type: Vi
   name:
     family: "七尾"
     family_kana: "ななお"
@@ -641,6 +667,7 @@ yuriko:
   color: "#c7b83c"
 sayoko:
   idol_id: 27
+  idol_type: Vo
   name:
     family: "高山"
     family_kana: "たかやま"
@@ -666,6 +693,7 @@ sayoko:
   color: "#7f6575"
 arisa:
   idol_id: 28
+  idol_type: Vo
   name:
     family: "松田"
     family_kana: "まつだ"
@@ -690,6 +718,7 @@ arisa:
   color: "#b54461"
 umi:
   idol_id: 29
+  idol_type: Da
   name:
     family: "高坂"
     family_kana: "こうさか"
@@ -714,6 +743,7 @@ umi:
   color: "#e9739b"
 iku:
   idol_id: 30
+  idol_type: Vi
   name:
     family: "中谷"
     family_kana: "なかたに"
@@ -738,6 +768,7 @@ iku:
   color: "#f7e78e"
 tomoka:
   idol_id: 31
+  idol_type: Vo
   name:
     family: "天空橋"
     family_kana: "てんくうばし"
@@ -762,6 +793,7 @@ tomoka:
   color: "#bee3e3"
 emily:
   idol_id: 32
+  idol_type: Da
   name:
     family: "エミリー"
     family_kana: "えみりー"
@@ -786,6 +818,7 @@ emily:
   color: "#554171"
 shiho:
   idol_id: 33
+  idol_type: Vi
   name:
     family: "北沢"
     family_kana: "きたざわ"
@@ -811,6 +844,7 @@ shiho:
   color: "#afa690"
 ayumu:
   idol_id: 34
+  idol_type: Da
   name:
     family: "舞浜"
     family_kana: "まいはま"
@@ -835,6 +869,7 @@ ayumu:
   color: "#e25a9b"
 hinata:
   idol_id: 35
+  idol_type: Vo
   name:
     family: "木下"
     family_kana: "きのした"
@@ -859,6 +894,7 @@ hinata:
   color: "#d1342c"
 kana:
   idol_id: 36
+  idol_type: Vo
   name:
     family: "矢吹"
     family_kana: "やぶき"
@@ -883,6 +919,7 @@ kana:
   color: "#f5ad3b"
 nao:
   idol_id: 37
+  idol_type: Da
   name:
     family: "横山"
     family_kana: "よこやま"
@@ -907,6 +944,7 @@ nao:
   color: "#788bc5"
 chiduru:
   idol_id: 38
+  idol_type: Vi
   name:
     family: "二階堂"
     family_kana: "にかいどう"
@@ -931,6 +969,7 @@ chiduru:
   color: "#f19557"
 konomi:
   idol_id: 39
+  idol_type: Da
   name:
     family: "馬場"
     family_kana: "ばば"
@@ -955,6 +994,7 @@ konomi:
   color: "#f1becb"
 tamaki:
   idol_id: 40
+  idol_type: Da
   name:
     family: "大神"
     family_kana: "おおがみ"
@@ -979,6 +1019,7 @@ tamaki:
   color: "#ee762e"
 fuuka:
   idol_id: 41
+  idol_type: Vi
   name:
     family: "豊川"
     family_kana: "とよかわ"
@@ -1003,6 +1044,7 @@ fuuka:
   color: "#7278a8"
 miya:
   idol_id: 42
+  idol_type: Vi
   name:
     family: "宮尾"
     family_kana: "みやお"
@@ -1028,6 +1070,7 @@ miya:
   color: "#d7a96b"
 noriko:
   idol_id: 43
+  idol_type: Da
   name:
     family: "福田"
     family_kana: "ふくだ"
@@ -1052,6 +1095,7 @@ noriko:
   color: "#eceb70"
 mizuki:
   idol_id: 44
+  idol_type: Da
   name:
     family: "真壁"
     family_kana: "まかべ"
@@ -1076,6 +1120,7 @@ mizuki:
   color: "#99b7dc"
 karen:
   idol_id: 45
+  idol_type: Vi
   name:
     family: "篠宮"
     family_kana: "しのみや"
@@ -1100,6 +1145,7 @@ karen:
   color: "#b63b40"
 rio:
   idol_id: 46
+  idol_type: Da
   name:
     family: "百瀬"
     family_kana: "ももせ"
@@ -1124,6 +1170,7 @@ rio:
   color: "#f19591"
 subaru:
   idol_id: 47
+  idol_type: Da
   name:
     family: "永吉"
     family_kana: "ながよし"
@@ -1148,6 +1195,7 @@ subaru:
   color: "#aeb49c"
 reika:
   idol_id: 48
+  idol_type: Da
   name:
     family: "北上"
     family_kana: "きたかみ"
@@ -1172,6 +1220,7 @@ reika:
   color: "#6bb6b0"
 momoko:
   idol_id: 49
+  idol_type: Vi
   name:
     family: "周防"
     family_kana: "すおう"
@@ -1196,6 +1245,7 @@ momoko:
   color: "#efb864"
 juria:
   idol_id: 50
+  idol_type: Vo
   name:
     aka: "ジュリア"
     shorten: "ジュリア"
