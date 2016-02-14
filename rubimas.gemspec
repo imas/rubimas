@@ -21,12 +21,12 @@ Gem::Specification.new do |spec|
   spec.add_dependency "activesupport", ">= 4.0.0"
   spec.add_dependency "hashie", ">= 2.0.5"
 
-  spec.add_development_dependency "bundler", "~> 1.6"
+  spec.add_development_dependency "bundler"
   spec.add_development_dependency "rake"
-  spec.add_development_dependency "rspec", "~> 3.2.0"
-  spec.add_development_dependency "rspec-collection_matchers", "~> 1.0.0"
-  spec.add_development_dependency "rspec-its", "~> 1.0.1"
-  spec.add_development_dependency "rspec-parameterized", "~> 0.1.2"
+  spec.add_development_dependency "rspec"
+  spec.add_development_dependency "rspec-collection_matchers"
+  spec.add_development_dependency "rspec-its"
+  spec.add_development_dependency "rspec-parameterized"
 
   spec.add_development_dependency "parser", "~> 2.2.0.pre4"
 end
