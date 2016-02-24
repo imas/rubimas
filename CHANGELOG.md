@@ -1,5 +1,13 @@
 ## master
-[full changelog](http://github.com/imas/rubimas/compare/v0.1.0...master)
+[full changelog](http://github.com/imas/rubimas/compare/v0.2.0...master)
+
+## v0.2.0
+[full changelog](http://github.com/imas/rubimas/compare/v0.1.0...v0.2.0)
+
+- Idol name class support
+  - https://github.com/imas/rubimas/commit/9e77a23c4f1c8c5e7459eb83391ac8371538c200
+- Add the idol type.
+  - https://github.com/imas/rubimas/commit/9d72740e90ada992b11c5a1901c3fefd7fba3678
 
 ## v0.1.0
 [full changelog](http://github.com/imas/rubimas/compare/v0.0.2...v0.1.0)
