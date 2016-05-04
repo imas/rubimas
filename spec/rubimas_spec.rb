@@ -69,4 +69,24 @@ describe Rubimas do
       end
     end
   end
+
+  describe 'Idol#name' do
+    let(:idol_who_has_aka) { %i(roko emily juria) }
+
+    context 'When her specify name(a.k.a) as the name.' do
+      where(:name) { idol_who_has_aka }
+
+      with_them do
+        it { expect( Pro765.send(name).name.to_s ).to eq Pro765.send(name).name.aka }
+      end
+    end
+
+    context 'When her fullname as the name.' do
+      where(:name) { Rubimas::Idol.names - idol_who_has_aka }
+
+      with_them do
+        it { expect( Pro765.send(name).name.to_s ).to eq Pro765.send(name).name.full }
+      end
+    end
+  end
 end
