@@ -88,5 +88,23 @@ describe Rubimas do
         it { expect( Pro765.send(name).name.to_s ).to eq Pro765.send(name).name.full }
       end
     end
+
+    describe 'Idol#name#full' do
+      let(:idol_nobody_knows_her_fullname) { %i(juria) }
+
+      context 'When she has her fullname.' do
+        where(:name) { Rubimas::Idol.names - idol_nobody_knows_her_fullname }
+        with_them do
+          it { expect( Pro765.send(name).name.full ).to eq Pro765.send(name).name.full }
+        end
+      end
+
+      context "When nobody knows the idol's fullname." do
+        where(:name) { idol_nobody_knows_her_fullname }
+        with_them do
+          it { expect( Pro765.send(name).name.full ).to eq Pro765.send(name).name.aka }
+        end
+      end
+    end
   end
 end
