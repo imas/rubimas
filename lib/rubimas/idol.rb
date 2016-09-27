@@ -27,47 +27,42 @@ module Rubimas
       @color            = color
     end
 
-    # @return [Hash] content of config/idols.yml
-    def self.config
-      unless @@config
-        config_file = "#{File.dirname(__FILE__)}/../../config/idols.yml"
-        @@config = YAML.load_file(config_file).deep_symbolize_keys
-      end
-      @@config
-    end
-
-    # @return [Array<Symbol>]
-    def self.names
-      config.keys
-    end
-
-    # @param idol_name [Symbol]
-    # @return [Rubimas::Idol]
-    def self.find(idol_name)
-      raise "unknown idol: #{idol_name}" unless valid?(idol_name)
-
-      unless @@cache[idol_name]
-        idol_config = config[idol_name] || {}
-        @@cache[idol_name] = Rubimas::Idol.new(idol_config)
+    class << self
+      def config
+        unless @@config
+          config_file = "#{File.dirname(__FILE__)}/../../config/idols.yml"
+          @@config = YAML.load_file(config_file).deep_symbolize_keys
+        end
+        @@config
       end
 
-      @@cache[idol_name]
-    end
-
-    # @param idol_id [Fixnum]
-    # @return [Rubimas::Idol]
-    def self.find_by_id(idol_id)
-      unless @@id_cache[idol_id]
-        idol_config = config.select { |k, v| v[:idol_id] == idol_id }.values.first
-        @@id_cache[idol_id] = Rubimas::Idol.new(idol_config)
+      def names
+        config.keys
       end
 
-      @@id_cache[idol_id]
-    end
+      def find(idol_name)
+        raise "unknown idol: #{idol_name}" unless valid?(idol_name)
 
-    # @param [Symbol] idol_name
-    def self.valid?(idol_name)
-      names.include?(idol_name)
+        unless @@cache[idol_name]
+          idol_config = config[idol_name] || {}
+          @@cache[idol_name] = Rubimas::Idol.new(idol_config)
+        end
+
+        @@cache[idol_name]
+      end
+
+      def find_by_id(idol_id)
+        unless @@id_cache[idol_id]
+          idol_config = config.select { |k, v| v[:idol_id] == idol_id }.values.first
+          @@id_cache[idol_id] = Rubimas::Idol.new(idol_config)
+        end
+
+        @@id_cache[idol_id]
+      end
+
+      def valid?(idol_name)
+        names.include?(idol_name)
+      end
     end
   end
 end
