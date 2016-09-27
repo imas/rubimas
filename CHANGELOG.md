@@ -1,6 +1,15 @@
 ## master
-[full changelog](http://github.com/imas/rubimas/compare/v0.2.0...master)
+[full changelog](http://github.com/imas/rubimas/compare/v0.4.0...master)
 
+## v0.4.0
+[full changelog](http://github.com/imas/rubimas/compare/v0.3.0...v0.4.0)
+
+- Add `find_by_name` method and change `find` method's behavior.
+  - https://github.com/imas/rubimas/commit/825bb2c8316918eb1b036e848d8c45c7cb130831
+- `Pro765` module has been removed.
+  - https://github.com/imas/rubimas/commit/a4c836b8c229476090659f443969d8a9f10a0732
+- Support more powerful alias to `Rubimas`.
+  - https://github.com/imas/rubimas/commit/e36af0b9ff8bc41163c73caf05bbb712f69be1e1
 
 ## v0.3.0
 [full changelog](http://github.com/imas/rubimas/compare/v0.2.0...v0.3.0)
