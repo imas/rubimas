@@ -5,26 +5,24 @@ module Rubimas
     @@config = nil
     @@all_idols = nil
 
-    def initialize(idol_id: nil, key: nil, idol_type: nil, name: nil, age: nil, height: nil, weight: nil,
-                   bust: nil, waist: nil, hip: nil, birthday: nil, blood_type: nil, handedness: nil,
-                   hobbies: [], talents: [], favorites: [], color: nil)
-      @idol_id          = idol_id
-      @key              = key
-      @idol_type        = idol_type
-      @name             = Name.new(name)
-      @age              = age
-      @height           = height
-      @weight           = weight
-      @bust             = bust
-      @waist            = waist
-      @hip              = hip
-      @birthday         = birthday
-      @blood_type       = blood_type
-      @handedness       = handedness
-      @hobbies          = hobbies
-      @talents          = talents
-      @favorites        = favorites
-      @color            = color
+    def initialize(**args)
+      @idol_id          = args[:idol_id]
+      @key              = args[:key]
+      @idol_type        = args[:idol_type]
+      @name             = Name.new(args[:name])
+      @age              = args[:age]
+      @height           = args[:height]
+      @weight           = args[:weight]
+      @bust             = args[:bust]
+      @waist            = args[:waist]
+      @hip              = args[:hip]
+      @birthday         = args[:birthday]
+      @blood_type       = args[:blood_type]
+      @handedness       = args[:handedness]
+      @hobbies          = args[:hobbies]
+      @talents          = args[:talents]
+      @favorites        = args[:favorites]
+      @color            = args[:color]
     end
     alias_method :id, :idol_id
 
