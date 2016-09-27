@@ -1,15 +1,15 @@
 module Rubimas
   class Idol
-    attr_reader :idol_id, :idol_type, :name, :age, :height, :weight, :bust, :waist, :hip,
+    attr_reader :idol_id, :key, :idol_type, :name, :age, :height, :weight, :bust, :waist, :hip,
                 :birthday, :blood_type, :handedness, :hobbies, :talents, :favorites, :color
-    @@cache = {}
-    @@id_cache = {}
     @@config = nil
+    @@all_idols = nil
 
-    def initialize(idol_id: nil, idol_type: nil, name: nil, age: nil, height: nil, weight: nil,
+    def initialize(idol_id: nil, key: nil, idol_type: nil, name: nil, age: nil, height: nil, weight: nil,
                    bust: nil, waist: nil, hip: nil, birthday: nil, blood_type: nil, handedness: nil,
                    hobbies: [], talents: [], favorites: [], color: nil)
       @idol_id          = idol_id
+      @key              = key
       @idol_type        = idol_type
       @name             = Name.new(name)
       @age              = age
@@ -26,6 +26,7 @@ module Rubimas
       @favorites        = favorites
       @color            = color
     end
+    alias_method :id, :idol_id
 
     class << self
       def config
@@ -40,25 +41,18 @@ module Rubimas
         config.keys
       end
 
-      def find(idol_id)
-        unless @@id_cache[idol_id]
-          idol_config = config.select { |k, v| v[:idol_id] == idol_id }.values.first
-          @@id_cache[idol_id] = Rubimas::Idol.new(idol_config)
-        end
+      def all
+        @@all_idols ||= config.map { |key, prof| prof[:key] = key; new(prof) }
+      end
+      alias_method :all_idols, :all
 
-        @@id_cache[idol_id]
+      def find(idol_id)
+        all_idols.find { |idol| idol.id == idol_id }
       end
       alias_method :find_by_id, :find
 
       def find_by_name(idol_name)
-        raise "unknown idol: #{idol_name}" unless valid?(idol_name)
-
-        unless @@cache[idol_name]
-          idol_config = config[idol_name] || {}
-          @@cache[idol_name] = Rubimas::Idol.new(idol_config)
-        end
-
-        @@cache[idol_name]
+        all_idols.find { |idol| idol.key == idol_name } || raise("unknown idol: #{idol_name}")
       end
 
       def valid?(idol_name)
