@@ -1,6 +1,15 @@
 ## master
 [full changelog](http://github.com/imas/rubimas/compare/v0.2.0...master)
 
+
+## v0.3.0
+[full changelog](http://github.com/imas/rubimas/compare/v0.2.0...v0.3.0)
+
+- Support Emily's a.k.a
+  - https://github.com/imas/rubimas/commit/3b3612e4ed59affa76e5ccec7b42bbd226eedf9a
+- Remove ruby 2.0 support.
+  - https://github.com/imas/rubimas/commit/56df6b586c05e29a11a83c7aa31aa1872b86d0a2
+
 ## v0.2.0
 [full changelog](http://github.com/imas/rubimas/compare/v0.1.0...v0.2.0)
 
