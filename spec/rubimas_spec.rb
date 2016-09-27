@@ -63,9 +63,9 @@ describe Rubimas do
       end
 
       with_them do
-        it { expect( Pro765.send(name) ).to be_an_instance_of Rubimas::Idol }
-        it { expect( Pro765.send(name).name ).to be_an_instance_of Rubimas::Idol::Name }
-        it { expect { Pro765.send(name).name.full }.not_to raise_error }
+        it { expect( 765.pro.send(name) ).to be_an_instance_of Rubimas::Idol }
+        it { expect( 765.pro.send(name).name ).to be_an_instance_of Rubimas::Idol::Name }
+        it { expect { 765.pro.send(name).name.full }.not_to raise_error }
       end
     end
   end
@@ -77,7 +77,7 @@ describe Rubimas do
       where(:name) { idol_who_has_aka }
 
       with_them do
-        it { expect( Pro765.send(name).name.to_s ).to eq Pro765.send(name).name.aka }
+        it { expect( 765.pro.send(name).name.to_s ).to eq 765.pro.send(name).name.aka }
       end
     end
 
@@ -85,7 +85,7 @@ describe Rubimas do
       where(:name) { Rubimas::Idol.names - idol_who_has_aka }
 
       with_them do
-        it { expect( Pro765.send(name).name.to_s ).to eq Pro765.send(name).name.full }
+        it { expect( 765.pro.send(name).name.to_s ).to eq 765.pro.send(name).name.full }
       end
     end
 
@@ -95,14 +95,14 @@ describe Rubimas do
       context 'When she has her fullname.' do
         where(:name) { Rubimas::Idol.names - idol_nobody_knows_her_fullname }
         with_them do
-          it { expect( Pro765.send(name).name.full ).to eq Pro765.send(name).name.full }
+          it { expect( 765.pro.send(name).name.full ).to eq 765.pro.send(name).name.full }
         end
       end
 
       context "When nobody knows the idol's fullname." do
         where(:name) { idol_nobody_knows_her_fullname }
         with_them do
-          it { expect( Pro765.send(name).name.full ).to eq Pro765.send(name).name.aka }
+          it { expect( 765.pro.send(name).name.full ).to eq 765.pro.send(name).name.aka }
         end
       end
     end
