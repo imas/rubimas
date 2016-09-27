@@ -11,7 +11,9 @@ module Rubimas
     if Rubimas::Idol.valid?(name)
       Rubimas::Idol.find_by_name(name)
     else
-      super
+      Rubimas::Idol.send(name, *args)
     end
+  rescue NoMethodError
+    super
   end
 end
