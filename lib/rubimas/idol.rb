@@ -40,7 +40,17 @@ module Rubimas
         config.keys
       end
 
-      def find(idol_name)
+      def find(idol_id)
+        unless @@id_cache[idol_id]
+          idol_config = config.select { |k, v| v[:idol_id] == idol_id }.values.first
+          @@id_cache[idol_id] = Rubimas::Idol.new(idol_config)
+        end
+
+        @@id_cache[idol_id]
+      end
+      alias_method :find_by_id, :find
+
+      def find_by_name(idol_name)
         raise "unknown idol: #{idol_name}" unless valid?(idol_name)
 
         unless @@cache[idol_name]
@@ -49,15 +59,6 @@ module Rubimas
         end
 
         @@cache[idol_name]
-      end
-
-      def find_by_id(idol_id)
-        unless @@id_cache[idol_id]
-          idol_config = config.select { |k, v| v[:idol_id] == idol_id }.values.first
-          @@id_cache[idol_id] = Rubimas::Idol.new(idol_config)
-        end
-
-        @@id_cache[idol_id]
       end
 
       def valid?(idol_name)
