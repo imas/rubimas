@@ -4,7 +4,7 @@ require 'hashie'
 require "rubimas/version"
 require "rubimas/idol"
 require "rubimas/idol/name"
-require "rubimas/core_ext/fixnum"
+require "rubimas/core_ext/integer"
 
 module Rubimas
   def self.method_missing(name, *args)
