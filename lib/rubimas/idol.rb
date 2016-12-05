@@ -1,7 +1,7 @@
 module Rubimas
   class Idol
     attr_reader :idol_id, :key, :idol_type, :name, :age, :height, :weight, :bust, :waist, :hip,
-                :birthday, :blood_type, :handedness, :hobbies, :talents, :favorites, :color
+                :birthday, :blood_type, :handedness, :hobbies, :talents, :favorites, :color, :cv
     @@config = nil
     @@all_idols = nil
 
@@ -23,6 +23,7 @@ module Rubimas
       @talents          = args[:talents]
       @favorites        = args[:favorites]
       @color            = args[:color]
+      @cv               = args[:cv]
     end
     alias_method :id, :idol_id
 
