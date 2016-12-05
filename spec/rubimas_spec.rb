@@ -91,7 +91,7 @@ describe Rubimas do
       where(:name, :message) do
         [[:kotori, 'unknown idol: kotori'],
          ['春日', 'unknown idol: 春日'],
-         [14, 'idol_name should be symbol or string']]
+         [14, 'unknown idol: 14']]
       end
 
       with_them do

@@ -30,6 +30,9 @@ module Rubimas
         end
       end
 
+      def ==(other)
+        super || [aka, given, full].compact.include?(other)
+      end
     end
   end
 end
