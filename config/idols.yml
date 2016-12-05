@@ -25,6 +25,7 @@ haruka:
   favorites:
   - "歌うこと"
   color: "#e22b30"
+  cv: 中村繪里子
 chihaya:
   idol_id: 2
   idol_type: Vo
@@ -50,6 +51,7 @@ chihaya:
   favorites:
   - "トレーニング"
   color: "#2743d2"
+  cv: 今井麻美
 miki:
   idol_id: 3
   idol_type: Vi
@@ -77,6 +79,7 @@ miki:
   - "おにぎり"
   - "いちごババロア"
   color: "#b4e04b"
+  cv: 長谷川明子
 yukiho:
   idol_id: 4
   idol_type: Vi
@@ -102,6 +105,7 @@ yukiho:
   favorites:
   - "ブログ"
   color: "#d3dde9"
+  cv: 浅倉杏美
 yayoi:
   idol_id: 5
   idol_type: Da
@@ -129,6 +133,7 @@ yayoi:
   favorites:
   - "家族"
   color: "#f39939"
+  cv: 仁後真耶子
 makoto:
   idol_id: 6
   idol_type: Da
@@ -155,6 +160,7 @@ makoto:
   favorites:
   - "ぬいぐるみ"
   color: "#515558"
+  cv: 平田宏美
 iori:
   idol_id: 7
   idol_type: Vo
@@ -181,6 +187,7 @@ iori:
   favorites:
   - "果汁100％オレンジジュース"
   color: "#fd99e1"
+  cv: 釘宮理恵
 takane:
   idol_id: 8
   idol_type: Vo
@@ -207,6 +214,7 @@ takane:
   favorites:
   - "ラーメン"
   color: "#a6126a"
+  cv: 原由実
 ritsuko:
   idol_id: 9
   idol_type: Vi
@@ -233,6 +241,7 @@ ritsuko:
   - "ゲーム"
   - "小説"
   color: "#01a860"
+  cv: 若林直美
 azusa:
   idol_id: 10
   idol_type: Vo
@@ -258,6 +267,7 @@ azusa:
   favorites:
   - "カフェ巡り"
   color: "#9238be"
+  cv: たかはし智秋
 ami:
   idol_id: 11
   idol_type: Vi
@@ -284,6 +294,7 @@ ami:
   favorites:
   - "遊ぶこと"
   color: "#ffe43f"
+  cv: 下田麻美
 mami:
   idol_id: 12
   idol_type: Vi
@@ -310,6 +321,7 @@ mami:
   favorites:
   - "遊ぶこと"
   color: "#ffe43f"
+  cv: 下田麻美
 hibiki:
   idol_id: 13
   idol_type: Da
@@ -337,6 +349,7 @@ hibiki:
   - "散歩"
   - "動物"
   color: "#01adb9"
+  cv: 沼倉愛美
 mirai:
   idol_id: 14
   idol_type: Vo
@@ -362,6 +375,7 @@ mirai:
   favorites:
   - "ライブ"
   color: "#ea5b76"
+  cv: 山崎はるか
 shizuka:
   idol_id: 15
   idol_type: Vo
@@ -387,6 +401,7 @@ shizuka:
   favorites:
   - "うどん"
   color: "#6495cf"
+  cv: 田所あずさ
 tsubasa:
   idol_id: 16
   idol_type: Vi
@@ -412,6 +427,7 @@ tsubasa:
   favorites:
   - "ビーフステーキ"
   color: "#fed552"
+  cv: Machico
 kotoha:
   idol_id: 17
   idol_type: Vo
@@ -437,6 +453,7 @@ kotoha:
   favorites:
   - "アイス"
   color: "#92cfbb"
+  cv: 種田梨沙
 erena:
   idol_id: 18
   idol_type: Da
@@ -462,6 +479,7 @@ erena:
   favorites:
   - "みんなで騒ぐこと"
   color: "#9bce92"
+  cv: 角元明日香
 minako:
   idol_id: 19
   idol_type: Da
@@ -487,6 +505,7 @@ minako:
   favorites:
   - "友達との長電話"
   color: "#58a6dc"
+  cv: 大関英里
 megumi:
   idol_id: 20
   idol_type: Vi
@@ -512,6 +531,7 @@ megumi:
   favorites:
   - "友達"
   color: "#454341"
+  cv: 藤井ゆきよ
 matsuri:
   idol_id: 21
   idol_type: Vi
@@ -538,6 +558,7 @@ matsuri:
   - "焼きマシュマロ"
   - "ウミウシ"
   color: "#5abfb7"
+  cv: 諏訪彩花
 serika:
   idol_id: 22
   idol_type: Vo
@@ -564,6 +585,7 @@ serika:
   - "紅茶"
   - "クッキー"
   color: "#ed90ba"
+  cv: 麻倉もも
 akane:
   idol_id: 23
   idol_type: Da
@@ -589,6 +611,7 @@ akane:
   favorites:
   - "プリン"
   color: "#eb613f"
+  cv: 小笠原早紀
 anna:
   idol_id: 24
   idol_type: Vo
@@ -614,6 +637,7 @@ anna:
   favorites:
   - "かわいいもの"
   color: "#7e6ca8"
+  cv: 夏川椎菜
 roko:
   idol_id: 25
   idol_type: Vi
@@ -640,6 +664,7 @@ roko:
   favorites:
   - "ハト"
   color: "#fff03c"
+  cv: 中村温姫
 yuriko:
   idol_id: 26
   idol_type: Vi
@@ -665,6 +690,7 @@ yuriko:
   favorites:
   - "おはぎ"
   color: "#c7b83c"
+  cv: 伊藤美来
 sayoko:
   idol_id: 27
   idol_type: Vo
@@ -691,6 +717,7 @@ sayoko:
   - "友達"
   - "アイドル仲間"
   color: "#7f6575"
+  cv: 駒形友梨
 arisa:
   idol_id: 28
   idol_type: Vo
@@ -716,6 +743,7 @@ arisa:
   favorites:
   - "ファミレスのデザート"
   color: "#b54461"
+  cv: 村川梨衣
 umi:
   idol_id: 29
   idol_type: Da
@@ -741,6 +769,7 @@ umi:
   favorites:
   - "ダンス"
   color: "#e9739b"
+  cv: 上田麗奈
 iku:
   idol_id: 30
   idol_type: Vi
@@ -766,6 +795,7 @@ iku:
   favorites:
   - "おかあさん"
   color: "#f7e78e"
+  cv: 原嶋あかり
 tomoka:
   idol_id: 31
   idol_type: Vo
@@ -791,6 +821,7 @@ tomoka:
   favorites:
   - "かわいい扇子"
   color: "#bee3e3"
+  cv: 小岩井ことり
 emily:
   idol_id: 32
   idol_type: Da
@@ -817,6 +848,7 @@ emily:
   favorites:
   - "抹茶"
   color: "#554171"
+  cv: 郁原ゆう
 shiho:
   idol_id: 33
   idol_type: Vi
@@ -843,6 +875,7 @@ shiho:
   favorites:
   - "ぬいぐるみ"
   color: "#afa690"
+  cv: 雨宮天
 ayumu:
   idol_id: 34
   idol_type: Da
@@ -868,6 +901,7 @@ ayumu:
   favorites:
   - "わさび"
   color: "#e25a9b"
+  cv: 戸田めぐみ
 hinata:
   idol_id: 35
   idol_type: Vo
@@ -893,6 +927,7 @@ hinata:
   favorites:
   - "おばあちゃん"
   color: "#d1342c"
+  cv: 田村奈央
 kana:
   idol_id: 36
   idol_type: Vo
@@ -918,6 +953,7 @@ kana:
   favorites:
   - "屋上で歌うこと"
   color: "#f5ad3b"
+  cv: 木戸衣吹
 nao:
   idol_id: 37
   idol_type: Da
@@ -943,6 +979,7 @@ nao:
   favorites:
   - "友達とおしゃべり"
   color: "#788bc5"
+  cv: 渡部優衣
 chiduru:
   idol_id: 38
   idol_type: Vi
@@ -968,6 +1005,7 @@ chiduru:
   favorites:
   - "憧れの目で見られること"
   color: "#f19557"
+  cv: 野村香菜子
 konomi:
   idol_id: 39
   idol_type: Da
@@ -993,6 +1031,7 @@ konomi:
   favorites:
   - "日本酒"
   color: "#f1becb"
+  cv: 高橋未奈美
 tamaki:
   idol_id: 40
   idol_type: Da
@@ -1018,6 +1057,7 @@ tamaki:
   favorites:
   - "アスレチックランド"
   color: "#ee762e"
+  cv: 稲川英里
 fuuka:
   idol_id: 41
   idol_type: Vi
@@ -1043,6 +1083,7 @@ fuuka:
   favorites:
   - "猫"
   color: "#7278a8"
+  cv: 末柄里恵
 miya:
   idol_id: 42
   idol_type: Vi
@@ -1069,6 +1110,7 @@ miya:
   favorites:
   - "サンドイッチ"
   color: "#d7a96b"
+  cv: 桐谷蝶々
 noriko:
   idol_id: 43
   idol_type: Da
@@ -1094,6 +1136,7 @@ noriko:
   favorites:
   - "焼肉"
   color: "#eceb70"
+  cv: 浜崎奈々
 mizuki:
   idol_id: 44
   idol_type: Da
@@ -1119,6 +1162,7 @@ mizuki:
   favorites:
   - "クロスワードパズル"
   color: "#99b7dc"
+  cv: 阿部里果
 karen:
   idol_id: 45
   idol_type: Vi
@@ -1144,6 +1188,7 @@ karen:
   favorites:
   - "お風呂"
   color: "#b63b40"
+  cv: 近藤唯
 rio:
   idol_id: 46
   idol_type: Da
@@ -1169,6 +1214,7 @@ rio:
   favorites:
   - "可愛くてセクシーな服"
   color: "#f19591"
+  cv: 山口立花子
 subaru:
   idol_id: 47
   idol_type: Da
@@ -1194,6 +1240,7 @@ subaru:
   favorites:
   - "アイドル"
   color: "#aeb49c"
+  cv: 斉藤佑圭
 reika:
   idol_id: 48
   idol_type: Da
@@ -1219,6 +1266,7 @@ reika:
   favorites:
   - "ドライブ"
   color: "#6bb6b0"
+  cv: 平山笑美
 momoko:
   idol_id: 49
   idol_type: Vi
@@ -1244,6 +1292,7 @@ momoko:
   favorites:
   - "ホットケーキ"
   color: "#efb864"
+  cv: 渡部恵子
 juria:
   idol_id: 50
   idol_type: Vo
@@ -1265,3 +1314,4 @@ juria:
   favorites:
   - "パンクロック"
   color: "#d7385f"
+  cv: 愛美
