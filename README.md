@@ -24,7 +24,7 @@ Or install it yourself as:
 
     require 'rubimas'
     765.pro.haruka.name
-    # "天海 春香"
+    # "天海春香"
     765.pro.haruka.birthday
     # "04/03"
     765.pro.haruka.favorites
