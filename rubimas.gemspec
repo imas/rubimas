@@ -28,5 +28,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rspec-its', '~> 1'
   spec.add_development_dependency 'rspec-parameterized', '~> 0'
 
-  spec.add_development_dependency 'parser', '~> 2.2'
+  spec.add_development_dependency 'parser', '~> 2.3'
 end
