@@ -1,4 +1,4 @@
-class Fixnum
+class Integer
   def production
     self == 765 ? Rubimas : super
   end
