@@ -74,11 +74,11 @@ describe Rubimas do
     context 'can find idol' do
       where(:name, :expected) do
         [
-          [ "未来", :mirai],
-          [ "最上静香", :shizuka],
-          [ "ジュリア", :juria],
-          [ "ロコ", :roko],
-          [ "エミリー", :emily],
+          ["未来", :mirai],
+          ["最上静香", :shizuka],
+          ["ジュリア", :juria],
+          ["ロコ", :roko],
+          ["エミリー", :emily],
         ]
       end
 
