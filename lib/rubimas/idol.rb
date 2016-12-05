@@ -50,7 +50,18 @@ module Rubimas
       alias_method :find_by_id, :find
 
       def find_by_name(idol_name)
-        all_idols.find { |idol| idol.key == idol_name } || raise("unknown idol: #{idol_name}")
+        case idol_name
+        when Symbol
+          all_idols.find { |idol| idol.key == idol_name } || raise("unknown idol: #{idol_name}")
+        when String
+          found = all_idols.find do |idol|
+            names = [idol.name.given, idol.name.aka, idol.name.full]
+            names.include?(idol_name)
+          end
+          found || raise("unknown idol: #{idol_name}")
+        else
+          raise("idol_name should be symbol or string")
+        end
       end
 
       def valid?(idol_name)
