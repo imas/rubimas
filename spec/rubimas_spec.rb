@@ -70,6 +70,36 @@ describe Rubimas do
     end
   end
 
+  describe 'Idol#find_by_name' do
+    context 'can find idol' do
+      where(:name, :expected) do
+        [
+          ["未来", :mirai],
+          ["最上静香", :shizuka],
+          ["ジュリア", :juria],
+          ["ロコ", :roko],
+          ["エミリー", :emily],
+        ]
+      end
+
+      with_them do
+        it { expect( 765.pro.find_by_name(name).key ).to eq expected }
+      end
+    end
+
+    context 'cannot find idol' do
+      where(:name, :message) do
+        [[:kotori, 'unknown idol: kotori'],
+         ['春日', 'unknown idol: 春日'],
+         [14, 'unknown idol: 14']]
+      end
+
+      with_them do
+        it { expect { 765.pro.find_by_name(name) }.to raise_error(message) }
+      end
+    end
+  end
+
   describe 'Idol#name' do
     let(:idol_who_has_aka) { %i(roko emily juria) }
 
