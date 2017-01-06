@@ -18,7 +18,11 @@ Gem::Specification.new do |spec|
   spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
   spec.require_paths = ["lib"]
 
-  spec.add_dependency 'activesupport', '>= 4.0'
+  if Gem::Version.new(RUBY_VERSION) >= Gem::Version.new('2.2.2')
+    spec.add_dependency 'activesupport', '>= 4.0'
+  else
+    spec.add_dependency 'activesupport', '~> 4.0'
+  end
   spec.add_dependency 'hashie', '>= 3.0'
 
   spec.add_development_dependency 'bundler', '~> 1'
