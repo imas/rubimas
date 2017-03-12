@@ -1,0 +1,26 @@
+megumi:
+  idol_id: 20
+  idol_type: Vi
+  name:
+    family: "所"
+    family_kana: "ところ"
+    given: "恵美"
+    given_kana: "めぐみ"
+    shorten: "恵美"
+  age: 16
+  height: 159.0
+  weight: 47.0
+  bust: 88.0
+  waist: 56.0
+  hip: 85.0
+  birthday: 04/15
+  blood_type: O
+  handedness: right
+  hobbies:
+  - "カラオケ"
+  talents:
+  - "人の誕生日を覚えること"
+  favorites:
+  - "友達"
+  color: "#454341"
+  cv: 藤井ゆきよ

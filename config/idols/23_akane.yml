@@ -1,0 +1,26 @@
+akane:
+  idol_id: 23
+  idol_type: Da
+  name:
+    family: "野々原"
+    family_kana: "ののはら"
+    given: "茜"
+    given_kana: "あかね"
+    shorten: "茜"
+  age: 16
+  height: 150.0
+  weight: 42.0
+  bust: 80.0
+  waist: 58.0
+  hip: 79.0
+  birthday: 12/03
+  blood_type: AB
+  handedness: left
+  hobbies:
+  - "スキップ"
+  talents:
+  - "インラインスケート"
+  favorites:
+  - "プリン"
+  color: "#eb613f"
+  cv: 小笠原早紀

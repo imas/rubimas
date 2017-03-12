@@ -1,0 +1,26 @@
+kotoha:
+  idol_id: 17
+  idol_type: Vo
+  name:
+    family: "田中"
+    family_kana: "たなか"
+    given: "琴葉"
+    given_kana: "ことは"
+    shorten: "琴葉"
+  age: 18
+  height: 157.0
+  weight: 44.0
+  bust: 79.0
+  waist: 55.0
+  hip: 78.0
+  birthday: 10/05
+  blood_type: A
+  handedness: right
+  hobbies:
+  - "お風呂"
+  talents:
+  - "フェンシング"
+  favorites:
+  - "アイス"
+  color: "#92cfbb"
+  cv: 種田梨沙

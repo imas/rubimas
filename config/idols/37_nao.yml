@@ -1,0 +1,26 @@
+nao:
+  idol_id: 37
+  idol_type: Da
+  name:
+    family: "横山"
+    family_kana: "よこやま"
+    given: "奈緒"
+    given_kana: "なお"
+    shorten: "奈緒"
+  age: 17
+  height: 159.0
+  weight: 46.0
+  bust: 84.0
+  waist: 57.0
+  hip: 83.0
+  birthday: 02/12
+  blood_type: O
+  handedness: right
+  hobbies:
+  - "銭湯＆温泉巡り"
+  talents:
+  - "スタミナがある"
+  favorites:
+  - "友達とおしゃべり"
+  color: "#788bc5"
+  cv: 渡部優衣

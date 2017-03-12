@@ -1,0 +1,26 @@
+rio:
+  idol_id: 46
+  idol_type: Da
+  name:
+    family: "百瀬"
+    family_kana: "ももせ"
+    given: "莉緒"
+    given_kana: "りお"
+    shorten: "莉緒"
+  age: 23
+  height: 168.0
+  weight: 46.0
+  bust: 84.0
+  waist: 57.0
+  hip: 84.0
+  birthday: 11/21
+  blood_type: A
+  handedness: right
+  hobbies:
+  - "ヨガエクササイズ"
+  talents:
+  - "メイク"
+  favorites:
+  - "可愛くてセクシーな服"
+  color: "#f19591"
+  cv: 山口立花子

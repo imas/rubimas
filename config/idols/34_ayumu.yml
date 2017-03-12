@@ -1,0 +1,26 @@
+ayumu:
+  idol_id: 34
+  idol_type: Da
+  name:
+    family: "舞浜"
+    family_kana: "まいはま"
+    given: "歩"
+    given_kana: "あゆむ"
+    shorten: "歩"
+  age: 19
+  height: 158.0
+  weight: 49.9
+  bust: 86.0
+  waist: 60.0
+  hip: 88.0
+  birthday: 07/23
+  blood_type: A
+  handedness: right
+  hobbies:
+  - "ショッピング"
+  talents:
+  - "ダンス"
+  favorites:
+  - "わさび"
+  color: "#e25a9b"
+  cv: 戸田めぐみ

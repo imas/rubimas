@@ -1,0 +1,26 @@
+tamaki:
+  idol_id: 40
+  idol_type: Da
+  name:
+    family: "大神"
+    family_kana: "おおがみ"
+    given: "環"
+    given_kana: "たまき"
+    shorten: "環"
+  age: 12
+  height: 147.0
+  weight: 39.0
+  bust: 76.0
+  waist: 51.0
+  hip: 77.0
+  birthday: 04/29
+  blood_type: B
+  handedness: right
+  hobbies:
+  - "探検"
+  talents:
+  - "石投げ"
+  favorites:
+  - "アスレチックランド"
+  color: "#ee762e"
+  cv: 稲川英里

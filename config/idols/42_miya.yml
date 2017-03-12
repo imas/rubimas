@@ -1,0 +1,27 @@
+miya:
+  idol_id: 42
+  idol_type: Vi
+  name:
+    family: "宮尾"
+    family_kana: "みやお"
+    given: "美也"
+    given_kana: "みや"
+    shorten: "美也"
+  age: 17
+  height: 156.0
+  weight: 46.0
+  bust: 84.0
+  waist: 58.0
+  hip: 83.0
+  birthday: 04/24
+  blood_type: O
+  handedness: right
+  hobbies:
+  - "囲碁"
+  - "将棋"
+  talents:
+  - "視力が高い"
+  favorites:
+  - "サンドイッチ"
+  color: "#d7a96b"
+  cv: 桐谷蝶々

@@ -1,0 +1,27 @@
+haruka:
+  idol_id: 1
+  idol_type: Vo
+  name:
+    family: "天海"
+    family_kana: "あまみ"
+    given: "春香"
+    given_kana: "はるか"
+    shorten: "春香"
+  age: 17
+  height: 158.0
+  weight: 46.0
+  bust: 83.0
+  waist: 56.0
+  hip: 82.0
+  birthday: 04/03
+  blood_type: O
+  handedness: right
+  hobbies:
+  - "カラオケ"
+  - "長電話"
+  talents:
+  - "お菓子作り"
+  favorites:
+  - "歌うこと"
+  color: "#e22b30"
+  cv: 中村繪里子

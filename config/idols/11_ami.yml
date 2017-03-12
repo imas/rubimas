@@ -1,0 +1,27 @@
+ami:
+  idol_id: 11
+  idol_type: Vi
+  name:
+    family: "双海"
+    family_kana: "ふたみ"
+    given: "亜美"
+    given_kana: "あみ"
+    shorten: "亜美"
+  age: 13
+  height: 158.0
+  weight: 42.0
+  bust: 78.0
+  waist: 55.0
+  hip: 77.0
+  birthday: 05/22
+  blood_type: B
+  handedness: right
+  hobbies:
+  - "メール"
+  - "エコ"
+  talents:
+  - "モノマネ"
+  favorites:
+  - "遊ぶこと"
+  color: "#ffe43f"
+  cv: 下田麻美

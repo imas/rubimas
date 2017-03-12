@@ -1,0 +1,26 @@
+iku:
+  idol_id: 30
+  idol_type: Vi
+  name:
+    family: "中谷"
+    family_kana: "なかたに"
+    given: "育"
+    given_kana: "いく"
+    shorten: "育"
+  age: 10
+  height: 142.0
+  weight: 37.0
+  bust: 72.0
+  waist: 52.0
+  hip: 73.0
+  birthday: 12/16
+  blood_type: B
+  handedness: right
+  hobbies:
+  - "アニメ鑑賞"
+  talents:
+  - "早起き"
+  favorites:
+  - "おかあさん"
+  color: "#f7e78e"
+  cv: 原嶋あかり

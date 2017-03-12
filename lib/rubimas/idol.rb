@@ -30,8 +30,9 @@ module Rubimas
     class << self
       def config
         unless @@config
-          config_file = "#{File.dirname(__FILE__)}/../../config/idols.yml"
-          @@config = YAML.load_file(config_file).deep_symbolize_keys
+          @@config = Dir.glob("#{File.dirname(__FILE__)}/../../config/idols/*.yml").each_with_object({}) do |file, idols|
+            idols.merge!(YAML.load_file(file))
+          end.deep_symbolize_keys
         end
         @@config
       end

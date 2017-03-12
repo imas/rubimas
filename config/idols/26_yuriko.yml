@@ -1,0 +1,26 @@
+yuriko:
+  idol_id: 26
+  idol_type: Vi
+  name:
+    family: "七尾"
+    family_kana: "ななお"
+    given: "百合子"
+    given_kana: "ゆりこ"
+    shorten: "百合子"
+  age: 15
+  height: 154.0
+  weight: 41.0
+  bust: 78.0
+  waist: 56.0
+  hip: 80.0
+  birthday: 03/18
+  blood_type: B
+  handedness: right
+  hobbies:
+  - "読書"
+  talents:
+  - "ペン回し"
+  favorites:
+  - "おはぎ"
+  color: "#c7b83c"
+  cv: 伊藤美来

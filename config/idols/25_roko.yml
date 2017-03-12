@@ -1,0 +1,27 @@
+roko:
+  idol_id: 25
+  idol_type: Vi
+  name:
+    aka: "ロコ"
+    family: "伴田"
+    family_kana: "はんだ"
+    given: "路子"
+    given_kana: "ろこ"
+    shorten: "ロコ"
+  age: 15
+  height: 154.0
+  weight: 42.0
+  bust: 78.0
+  waist: 57.0
+  hip: 77.0
+  birthday: 03/01
+  blood_type: AB
+  handedness: right
+  hobbies:
+  - "物を作ること"
+  talents:
+  - "目を閉じたまま歩ける"
+  favorites:
+  - "ハト"
+  color: "#fff03c"
+  cv: 中村温姫

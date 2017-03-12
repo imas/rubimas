@@ -1,0 +1,28 @@
+hibiki:
+  idol_id: 13
+  idol_type: Da
+  name:
+    family: "我那覇"
+    family_kana: "がなは"
+    given: "響"
+    given_kana: "ひびき"
+    shorten: "響"
+  age: 16
+  height: 152.0
+  weight: 41.0
+  bust: 83.0
+  waist: 56.0
+  hip: 80.0
+  birthday: 10/10
+  blood_type: A
+  handedness: right
+  hobbies:
+  - "編み物"
+  - "卓球"
+  talents:
+  - "家事全般"
+  favorites:
+  - "散歩"
+  - "動物"
+  color: "#01adb9"
+  cv: 沼倉愛美
