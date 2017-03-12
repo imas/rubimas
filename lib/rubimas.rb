@@ -4,6 +4,7 @@ require 'hashie'
 require "rubimas/version"
 require "rubimas/idol"
 require "rubimas/idol/name"
+require "rubimas/unit"
 require "rubimas/core_ext/integer"
 
 module Rubimas
