@@ -1,0 +1,26 @@
+arisa:
+  idol_id: 28
+  idol_type: Vo
+  name:
+    family: "松田"
+    family_kana: "まつだ"
+    given: "亜利沙"
+    given_kana: "ありさ"
+    shorten: "亜利沙"
+  age: 16
+  height: 154.0
+  weight: 40.0
+  bust: 81.0
+  waist: 54.0
+  hip: 80.0
+  birthday: 06/07
+  blood_type: AB
+  handedness: right
+  hobbies:
+  - "アイドルのデータ集め"
+  talents:
+  - "アイドルの変装を見破れる"
+  favorites:
+  - "ファミレスのデザート"
+  color: "#b54461"
+  cv: 村川梨衣

@@ -1,0 +1,27 @@
+serika:
+  idol_id: 22
+  idol_type: Vo
+  name:
+    family: "箱崎"
+    family_kana: "はこざき"
+    given: "星梨花"
+    given_kana: "せりか"
+    shorten: "星梨花"
+  age: 13
+  height: 146.0
+  weight: 37.0
+  bust: 74.0
+  waist: 54.0
+  hip: 76.0
+  birthday: 02/20
+  blood_type: O
+  handedness: right
+  hobbies:
+  - "バイオリン"
+  talents:
+  - "アジリティのハンドラー"
+  favorites:
+  - "紅茶"
+  - "クッキー"
+  color: "#ed90ba"
+  cv: 麻倉もも

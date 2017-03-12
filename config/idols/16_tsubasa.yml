@@ -1,0 +1,26 @@
+tsubasa:
+  idol_id: 16
+  idol_type: Vi
+  name:
+    family: "伊吹"
+    family_kana: "いぶき"
+    given: "翼"
+    given_kana: "つばさ"
+    shorten: "翼"
+  age: 14
+  height: 158.0
+  weight: 43.0
+  bust: 85.0
+  waist: 52.0
+  hip: 82.0
+  birthday: 07/30
+  blood_type: B
+  handedness: left
+  hobbies:
+  - "遊びの計画をたてること"
+  talents:
+  - "じゃんけん"
+  favorites:
+  - "ビーフステーキ"
+  color: "#fed552"
+  cv: Machico

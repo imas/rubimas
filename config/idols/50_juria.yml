@@ -1,0 +1,22 @@
+juria:
+  idol_id: 50
+  idol_type: Vo
+  name:
+    aka: "ジュリア"
+    shorten: "ジュリア"
+  age: 16
+  height: 157.0
+  weight: 43.0
+  bust: 79.0
+  waist: 54.0
+  hip: 80.0
+  birthday: 09/26
+  blood_type: O
+  handedness: left
+  hobbies:
+  talents:
+  - "ギター"
+  favorites:
+  - "パンクロック"
+  color: "#d7385f"
+  cv: 愛美

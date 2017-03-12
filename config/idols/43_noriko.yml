@@ -1,0 +1,26 @@
+noriko:
+  idol_id: 43
+  idol_type: Da
+  name:
+    family: "福田"
+    family_kana: "ふくだ"
+    given: "のり子"
+    given_kana: "のりこ"
+    shorten: "のり子"
+  age: 18
+  height: 164.0
+  weight: 48.0
+  bust: 87.0
+  waist: 58.0
+  hip: 87.0
+  birthday: 03/30
+  blood_type: A
+  handedness: right
+  hobbies:
+  - "格闘技観戦"
+  talents:
+  - "バイクの運転"
+  favorites:
+  - "焼肉"
+  color: "#eceb70"
+  cv: 浜崎奈々

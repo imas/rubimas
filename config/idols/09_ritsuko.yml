@@ -1,0 +1,27 @@
+ritsuko:
+  idol_id: 9
+  idol_type: Vi
+  name:
+    family: "秋月"
+    family_kana: "あきづき"
+    given: "律子"
+    given_kana: "りつこ"
+    shorten: "律子"
+  age: 19
+  height: 156.0
+  weight: 43.0
+  bust: 85.0
+  waist: 57.0
+  hip: 85.0
+  birthday: 06/23
+  blood_type: A
+  handedness: right
+  hobbies:
+  - "資格取得"
+  talents:
+  - "分析・実践"
+  favorites:
+  - "ゲーム"
+  - "小説"
+  color: "#01a860"
+  cv: 若林直美

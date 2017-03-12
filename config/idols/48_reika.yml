@@ -1,0 +1,26 @@
+reika:
+  idol_id: 48
+  idol_type: Da
+  name:
+    family: "北上"
+    family_kana: "きたかみ"
+    given: "麗花"
+    given_kana: "れいか"
+    shorten: "麗花"
+  age: 20
+  height: 164.0
+  weight: 47.0
+  bust: 84.0
+  waist: 58.0
+  hip: 84.0
+  birthday: 05/17
+  blood_type: A
+  handedness: right
+  hobbies:
+  - "登山"
+  talents:
+  - "肺活量が大きい"
+  favorites:
+  - "ドライブ"
+  color: "#6bb6b0"
+  cv: 平山笑美

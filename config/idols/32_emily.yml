@@ -1,0 +1,27 @@
+emily:
+  idol_id: 32
+  idol_type: Da
+  name:
+    aka: "エミリー"
+    family: "エミリー"
+    family_kana: "えみりー"
+    given: "スチュアート"
+    given_kana: "すちゅあーと"
+    shorten: "エミリー"
+  age: 13
+  height: 156.0
+  weight: 41.0
+  bust: 74.0
+  waist: 54.0
+  hip: 76.0
+  birthday: 01/08
+  blood_type: A
+  handedness: right
+  hobbies:
+  - "かるた遊び"
+  talents:
+  - "日本舞踊"
+  favorites:
+  - "抹茶"
+  color: "#554171"
+  cv: 郁原ゆう

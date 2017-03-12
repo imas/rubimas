@@ -1,0 +1,26 @@
+yukiho:
+  idol_id: 4
+  idol_type: Vi
+  name:
+    family: "萩原"
+    family_kana: "はぎわら"
+    given: "雪歩"
+    given_kana: "ゆきほ"
+    shorten: "雪歩"
+  age: 17
+  height: 155.0
+  weight: 42.0
+  bust: 81.0
+  waist: 56.0
+  hip: 81.0
+  birthday: 12/24
+  blood_type: A
+  handedness: right
+  hobbies:
+  - MY詩集を書くこと
+  talents:
+  - "日本茶をいれること"
+  favorites:
+  - "ブログ"
+  color: "#d3dde9"
+  cv: 浅倉杏美

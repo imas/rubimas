@@ -1,0 +1,26 @@
+azusa:
+  idol_id: 10
+  idol_type: Vo
+  name:
+    family: "三浦"
+    family_kana: "みうら"
+    given: "あずさ"
+    given_kana: "あずさ"
+    shorten: "あずさ"
+  age: 21
+  height: 168.0
+  weight: 48.0
+  bust: 91.0
+  waist: 59.0
+  hip: 86.0
+  birthday: 07/19
+  blood_type: O
+  handedness: right
+  hobbies:
+  - "犬の散歩"
+  talents:
+  - "占い"
+  favorites:
+  - "カフェ巡り"
+  color: "#9238be"
+  cv: たかはし智秋

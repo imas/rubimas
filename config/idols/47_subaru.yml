@@ -1,0 +1,26 @@
+subaru:
+  idol_id: 47
+  idol_type: Da
+  name:
+    family: "永吉"
+    family_kana: "ながよし"
+    given: "昴"
+    given_kana: "すばる"
+    shorten: "昴"
+  age: 15
+  height: 154.0
+  weight: 41.0
+  bust: 79.0
+  waist: 59.0
+  hip: 78.0
+  birthday: 09/20
+  blood_type: B
+  handedness: left
+  hobbies:
+  - "野球"
+  talents:
+  - "変化球"
+  favorites:
+  - "アイドル"
+  color: "#aeb49c"
+  cv: 斉藤佑圭

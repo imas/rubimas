@@ -1,0 +1,26 @@
+umi:
+  idol_id: 29
+  idol_type: Da
+  name:
+    family: "高坂"
+    family_kana: "こうさか"
+    given: "海美"
+    given_kana: "うみ"
+    shorten: "海美"
+  age: 16
+  height: 155.0
+  weight: 45.0
+  bust: 82.0
+  waist: 57.0
+  hip: 84.0
+  birthday: 08/10
+  blood_type: O
+  handedness: right
+  hobbies:
+  - "ボルダリング"
+  talents:
+  - "常人にできないポージングができる"
+  favorites:
+  - "ダンス"
+  color: "#e9739b"
+  cv: 上田麗奈

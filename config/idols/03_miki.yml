@@ -1,0 +1,28 @@
+miki:
+  idol_id: 3
+  idol_type: Vi
+  name:
+    family: "星井"
+    family_kana: "ほしい"
+    given: "美希"
+    given_kana: "みき"
+    shorten: "美希"
+  age: 15
+  height: 161.0
+  weight: 45.0
+  bust: 86.0
+  waist: 55.0
+  hip: 83.0
+  birthday: 11/23
+  blood_type: B
+  handedness: right
+  hobbies:
+  - "友達とおしゃべり"
+  - "ネイルアート"
+  talents:
+  - "寝ること"
+  favorites:
+  - "おにぎり"
+  - "いちごババロア"
+  color: "#b4e04b"
+  cv: 長谷川明子

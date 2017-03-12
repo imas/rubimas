@@ -1,0 +1,26 @@
+anna:
+  idol_id: 24
+  idol_type: Vo
+  name:
+    family: "望月"
+    family_kana: "もちづき"
+    given: "杏奈"
+    given_kana: "あんな"
+    shorten: "杏奈"
+  age: 14
+  height: 152.0
+  weight: 41.0
+  bust: 78.0
+  waist: 53.0
+  hip: 79.0
+  birthday: 05/31
+  blood_type: AB
+  handedness: right
+  hobbies:
+  - "オンラインゲーム"
+  talents:
+  - "タイピング"
+  favorites:
+  - "かわいいもの"
+  color: "#7e6ca8"
+  cv: 夏川椎菜

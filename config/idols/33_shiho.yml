@@ -1,0 +1,27 @@
+shiho:
+  idol_id: 33
+  idol_type: Vi
+  name:
+    family: "北沢"
+    family_kana: "きたざわ"
+    given: "志保"
+    given_kana: "しほ"
+    shorten: "志保"
+  age: 14
+  height: 161.0
+  weight: 46.0
+  bust: 83.0
+  waist: 56.0
+  hip: 84.0
+  birthday: 01/18
+  blood_type: A
+  handedness: right
+  hobbies:
+  - "お気に入りの絵本を探すこと"
+  talents:
+  - "記憶力"
+  - "集中力が高い"
+  favorites:
+  - "ぬいぐるみ"
+  color: "#afa690"
+  cv: 雨宮天

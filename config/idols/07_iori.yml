@@ -1,0 +1,27 @@
+iori:
+  idol_id: 7
+  idol_type: Vo
+  name:
+    family: "水瀬"
+    family_kana: "みなせ"
+    given: "伊織"
+    given_kana: "いおり"
+    shorten: "伊織"
+  age: 15
+  height: 153.0
+  weight: 40.0
+  bust: 77.0
+  waist: 54.0
+  hip: 79.0
+  birthday: 05/05
+  blood_type: AB
+  handedness: right
+  hobbies:
+  - "海外旅行"
+  - "食べ歩き"
+  talents:
+  - "ショッピング"
+  favorites:
+  - "果汁100％オレンジジュース"
+  color: "#fd99e1"
+  cv: 釘宮理恵

@@ -1,0 +1,26 @@
+hinata:
+  idol_id: 35
+  idol_type: Vo
+  name:
+    family: "木下"
+    family_kana: "きのした"
+    given: "ひなた"
+    given_kana: "ひなた"
+    shorten: "ひなた"
+  age: 14
+  height: 146.0
+  weight: 39.5
+  bust: 74.0
+  waist: 55.0
+  hip: 78.0
+  birthday: 07/04
+  blood_type: O
+  handedness: right
+  hobbies:
+  - "ガーデニング"
+  talents:
+  - "天気を当てること"
+  favorites:
+  - "おばあちゃん"
+  color: "#d1342c"
+  cv: 田村奈央
