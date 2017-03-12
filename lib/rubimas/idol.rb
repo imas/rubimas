@@ -51,12 +51,14 @@ module Rubimas
       alias_method :find_by_id, :find
 
       def find_by_name(idol_name)
-        all_idols.find { |idol| [idol.key, idol.name].include?(idol_name) } || raise("unknown idol: #{idol_name}")
+        all_idols.find { |idol| [idol.key, idol.name].include?(idol_name) } || (raise UnknownIdolError, "unknown idol: #{idol_name}")
       end
 
       def valid?(idol_name)
         names.include?(idol_name)
       end
     end
+
+    class UnknownIdolError < StandardError; end
   end
 end
