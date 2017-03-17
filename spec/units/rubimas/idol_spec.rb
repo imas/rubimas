@@ -1,6 +1,24 @@
 require 'spec_helper'
 
 describe Rubimas::Idol do
+  describe '#config' do
+    subject { described_class.config }
+
+    specify 'All idol count is 50' do
+      expect(subject.keys.count).to eq 50
+    end
+  end
+
+  describe '#all' do
+    subject { described_class.all }
+
+    specify 'Idols are order by id' do
+      expect(subject.first.key).to eq :haruka
+      expect(subject.last.key).to eq :juria
+    end
+  end
+
+
   describe '#find_by_name' do
     subject { Rubimas::Idol.find_by_name(name) }
 
