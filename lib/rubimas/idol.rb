@@ -42,7 +42,7 @@ module Rubimas
       end
 
       def all
-        @@all_idols ||= config.map { |key, prof| prof[:key] = key; new(prof) }
+        @@all_idols ||= config.map { |key, prof| prof[:key] = key; new(prof) }.sort_by { |idol| idol.id }
       end
       alias_method :all_idols, :all
 
