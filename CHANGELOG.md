@@ -1,5 +1,14 @@
 ## master
-[full changelog](http://github.com/imas/rubimas/compare/v0.4.0...master)
+[full changelog](http://github.com/imas/rubimas/compare/v0.5.0...master)
+
+## v0.5.0
+[full changelog](http://github.com/imas/rubimas/compare/v0.4.0...v0.5.0)
+
+- Fix deprecation warning
+  - https://github.com/imas/rubimas/commit/c6703847852bf0cd008b131ec063378993f16aed
+- Improve `Idol#find_by_name` thanks @gomao9 !
+  - https://github.com/imas/rubimas/commit/bc8f8e6c29ddbb99be13562a928de1b0dd455a25
+- Support ruby 2.3.0, 2.4.0, 2.5.0 and remove ruby 2.1.0
 
 ## v0.4.0
 [full changelog](http://github.com/imas/rubimas/compare/v0.3.0...v0.4.0)
