@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "rubimas"
   spec.version       = Rubimas::VERSION
   spec.authors       = ["treby"]
-  spec.email         = ["treby@atelier-nodoka.net"]
+  spec.email         = ["me@treby.info"]
   spec.summary       = %q{The 765 pro idol's information library.}
   spec.description   = %q{The 765 pro idol's information library. This gem provides names, birthdays, favorites, etc.}
   spec.homepage      = "https://github.com/imas/rubimas"
