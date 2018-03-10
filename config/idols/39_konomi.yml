@@ -1,12 +1,13 @@
+---
 konomi:
   idol_id: 39
-  idol_type: Da
+  idol_type: Angel
   name:
-    family: "馬場"
-    family_kana: "ばば"
-    given: "このみ"
-    given_kana: "このみ"
-    shorten: "このみ"
+    family: 馬場
+    family_kana: ばば
+    given: このみ
+    given_kana: このみ
+    shorten: このみ
   age: 24
   height: 143.0
   weight: 37.0
@@ -17,10 +18,12 @@ konomi:
   blood_type: A
   handedness: right
   hobbies:
-  - "北米ドラマ鑑賞"
+  - 北米ドラマ鑑賞
   talents:
-  - "麻雀"
+  - 麻雀
   favorites:
-  - "日本酒"
+  - 日本酒
   color: "#f1becb"
   cv: 高橋未奈美
+  birthplace: 山口県
+  idol_image: Dance

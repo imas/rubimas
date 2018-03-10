@@ -1,12 +1,13 @@
+---
 iori:
   idol_id: 7
-  idol_type: Vo
+  idol_type: Fairy
   name:
-    family: "水瀬"
-    family_kana: "みなせ"
-    given: "伊織"
-    given_kana: "いおり"
-    shorten: "伊織"
+    family: 水瀬
+    family_kana: みなせ
+    given: 伊織
+    given_kana: いおり
+    shorten: 伊織
   age: 15
   height: 153.0
   weight: 40.0
@@ -17,11 +18,13 @@ iori:
   blood_type: AB
   handedness: right
   hobbies:
-  - "海外旅行"
-  - "食べ歩き"
+  - 海外旅行
+  - 食べ歩き
   talents:
-  - "ショッピング"
+  - ショッピング
   favorites:
-  - "果汁100％オレンジジュース"
+  - 果汁100％オレンジジュース
   color: "#fd99e1"
   cv: 釘宮理恵
+  birthplace: 東京都
+  idol_image: Vocal

@@ -1,12 +1,13 @@
+---
 sayoko:
   idol_id: 27
-  idol_type: Vo
+  idol_type: Princess
   name:
-    family: "高山"
-    family_kana: "たかやま"
-    given: "紗代子"
-    given_kana: "さよこ"
-    shorten: "紗代子"
+    family: 高山
+    family_kana: たかやま
+    given: 紗代子
+    given_kana: さよこ
+    shorten: 紗代子
   age: 17
   height: 156.0
   weight: 42.0
@@ -17,11 +18,13 @@ sayoko:
   blood_type: A
   handedness: right
   hobbies:
-  - "ハリネズミの飼育"
+  - ハリネズミの飼育
   talents:
-  - "一晩寝ると元気になれる"
+  - 一晩寝ると元気になれる
   favorites:
-  - "友達"
-  - "アイドル仲間"
+  - 友達
+  - アイドル仲間
   color: "#7f6575"
   cv: 駒形友梨
+  birthplace: 茨城県
+  idol_image: Vocal

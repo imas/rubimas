@@ -1,12 +1,13 @@
+---
 hibiki:
   idol_id: 13
-  idol_type: Da
+  idol_type: Princess
   name:
-    family: "我那覇"
-    family_kana: "がなは"
-    given: "響"
-    given_kana: "ひびき"
-    shorten: "響"
+    family: 我那覇
+    family_kana: がなは
+    given: 響
+    given_kana: ひびき
+    shorten: 響
   age: 16
   height: 152.0
   weight: 41.0
@@ -17,12 +18,14 @@ hibiki:
   blood_type: A
   handedness: right
   hobbies:
-  - "編み物"
-  - "卓球"
+  - 編み物
+  - 卓球
   talents:
-  - "家事全般"
+  - 家事全般
   favorites:
-  - "散歩"
-  - "動物"
+  - 散歩
+  - 動物
   color: "#01adb9"
   cv: 沼倉愛美
+  birthplace: 沖縄県
+  idol_image: Dance

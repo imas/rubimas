@@ -1,12 +1,13 @@
+---
 iku:
   idol_id: 30
-  idol_type: Vi
+  idol_type: Princess
   name:
-    family: "中谷"
-    family_kana: "なかたに"
-    given: "育"
-    given_kana: "いく"
-    shorten: "育"
+    family: 中谷
+    family_kana: なかたに
+    given: 育
+    given_kana: いく
+    shorten: 育
   age: 10
   height: 142.0
   weight: 37.0
@@ -17,10 +18,12 @@ iku:
   blood_type: B
   handedness: right
   hobbies:
-  - "アニメ鑑賞"
+  - アニメ鑑賞
   talents:
-  - "早起き"
+  - 早起き
   favorites:
-  - "おかあさん"
+  - おかあさん
   color: "#f7e78e"
   cv: 原嶋あかり
+  birthplace: 東京都
+  idol_image: Visual

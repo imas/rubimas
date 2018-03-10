@@ -1,12 +1,13 @@
+---
 minako:
   idol_id: 19
-  idol_type: Da
+  idol_type: Princess
   name:
-    family: "佐竹"
-    family_kana: "さたけ"
-    given: "美奈子"
-    given_kana: "みなこ"
-    shorten: "美奈子"
+    family: 佐竹
+    family_kana: さたけ
+    given: 美奈子
+    given_kana: みなこ
+    shorten: 美奈子
   age: 18
   height: 158.0
   weight: 45.0
@@ -17,10 +18,12 @@ minako:
   blood_type: O
   handedness: right
   hobbies:
-  - "格闘ゲーム"
+  - 格闘ゲーム
   talents:
-  - "料理"
+  - 料理
   favorites:
-  - "友達との長電話"
+  - 友達との長電話
   color: "#58a6dc"
   cv: 大関英里
+  birthplace: 東京都
+  idol_image: Dance

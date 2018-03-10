@@ -1,12 +1,13 @@
+---
 nao:
   idol_id: 37
-  idol_type: Da
+  idol_type: Princess
   name:
-    family: "横山"
-    family_kana: "よこやま"
-    given: "奈緒"
-    given_kana: "なお"
-    shorten: "奈緒"
+    family: 横山
+    family_kana: よこやま
+    given: 奈緒
+    given_kana: なお
+    shorten: 奈緒
   age: 17
   height: 159.0
   weight: 46.0
@@ -17,10 +18,12 @@ nao:
   blood_type: O
   handedness: right
   hobbies:
-  - "銭湯＆温泉巡り"
+  - 銭湯＆温泉巡り
   talents:
-  - "スタミナがある"
+  - スタミナがある
   favorites:
-  - "友達とおしゃべり"
+  - 友達とおしゃべり
   color: "#788bc5"
   cv: 渡部優衣
+  birthplace: 大阪府
+  idol_image: Dance

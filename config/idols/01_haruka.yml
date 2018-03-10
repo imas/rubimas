@@ -1,12 +1,13 @@
+---
 haruka:
   idol_id: 1
-  idol_type: Vo
+  idol_type: Princess
   name:
-    family: "天海"
-    family_kana: "あまみ"
-    given: "春香"
-    given_kana: "はるか"
-    shorten: "春香"
+    family: 天海
+    family_kana: あまみ
+    given: 春香
+    given_kana: はるか
+    shorten: 春香
   age: 17
   height: 158.0
   weight: 46.0
@@ -17,11 +18,13 @@ haruka:
   blood_type: O
   handedness: right
   hobbies:
-  - "カラオケ"
-  - "長電話"
+  - カラオケ
+  - 長電話
   talents:
-  - "お菓子作り"
+  - お菓子作り
   favorites:
-  - "歌うこと"
+  - 歌うこと
   color: "#e22b30"
   cv: 中村繪里子
+  birthplace: 神奈川県
+  idol_image: Vocal

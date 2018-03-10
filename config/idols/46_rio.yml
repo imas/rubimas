@@ -1,12 +1,13 @@
+---
 rio:
   idol_id: 46
-  idol_type: Da
+  idol_type: Fairy
   name:
-    family: "百瀬"
-    family_kana: "ももせ"
-    given: "莉緒"
-    given_kana: "りお"
-    shorten: "莉緒"
+    family: 百瀬
+    family_kana: ももせ
+    given: 莉緒
+    given_kana: りお
+    shorten: 莉緒
   age: 23
   height: 168.0
   weight: 46.0
@@ -17,10 +18,12 @@ rio:
   blood_type: A
   handedness: right
   hobbies:
-  - "ヨガエクササイズ"
+  - ヨガエクササイズ
   talents:
-  - "メイク"
+  - メイク
   favorites:
-  - "可愛くてセクシーな服"
+  - 可愛くてセクシーな服
   color: "#f19591"
   cv: 山口立花子
+  birthplace: 広島県
+  idol_image: Dance

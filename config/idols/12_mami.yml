@@ -1,12 +1,13 @@
+---
 mami:
   idol_id: 12
-  idol_type: Vi
+  idol_type: Angel
   name:
-    family: "双海"
-    family_kana: "ふたみ"
-    given: "真美"
-    given_kana: "まみ"
-    shorten: "真美"
+    family: 双海
+    family_kana: ふたみ
+    given: 真美
+    given_kana: まみ
+    shorten: 真美
   age: 13
   height: 158.0
   weight: 42.0
@@ -17,11 +18,13 @@ mami:
   blood_type: B
   handedness: left
   hobbies:
-  - "メール"
-  - "ゲーム"
+  - メール
+  - ゲーム
   talents:
-  - "モノマネ"
+  - モノマネ
   favorites:
-  - "遊ぶこと"
+  - 遊ぶこと
   color: "#ffe43f"
   cv: 下田麻美
+  birthplace: 東京都
+  idol_image: Visual

@@ -1,12 +1,13 @@
+---
 yuriko:
   idol_id: 26
-  idol_type: Vi
+  idol_type: Princess
   name:
-    family: "七尾"
-    family_kana: "ななお"
-    given: "百合子"
-    given_kana: "ゆりこ"
-    shorten: "百合子"
+    family: 七尾
+    family_kana: ななお
+    given: 百合子
+    given_kana: ゆりこ
+    shorten: 百合子
   age: 15
   height: 154.0
   weight: 41.0
@@ -17,10 +18,12 @@ yuriko:
   blood_type: B
   handedness: right
   hobbies:
-  - "読書"
+  - 読書
   talents:
-  - "ペン回し"
+  - ペン回し
   favorites:
-  - "おはぎ"
+  - おはぎ
   color: "#c7b83c"
   cv: 伊藤美来
+  birthplace: 東京都
+  idol_image: Visual

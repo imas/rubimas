@@ -1,12 +1,13 @@
+---
 erena:
   idol_id: 18
-  idol_type: Da
+  idol_type: Angel
   name:
-    family: "島原"
-    family_kana: "しまばら"
-    given: "エレナ"
-    given_kana: "えれな"
-    shorten: "エレナ"
+    family: 島原
+    family_kana: しまばら
+    given: エレナ
+    given_kana: えれな
+    shorten: エレナ
   age: 17
   height: 160.0
   weight: 47.0
@@ -17,10 +18,12 @@ erena:
   blood_type: B
   handedness: right
   hobbies:
-  - "パーティー"
+  - パーティー
   talents:
-  - "サンバを踊ること"
+  - サンバを踊ること
   favorites:
-  - "みんなで騒ぐこと"
+  - みんなで騒ぐこと
   color: "#9bce92"
   cv: 角元明日香
+  birthplace: ブラジル
+  idol_image: Dance

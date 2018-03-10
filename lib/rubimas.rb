@@ -8,6 +8,10 @@ require "rubimas/unit"
 require "rubimas/core_ext/integer"
 
 module Rubimas
+  def self.theaterdays!
+    Rubimas::Idol.theaterdays!
+  end
+
   def self.method_missing(name, *args)
     if Rubimas::Idol.valid?(name)
       Rubimas::Idol.find_by_name(name)

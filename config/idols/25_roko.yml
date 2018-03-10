@@ -1,13 +1,14 @@
+---
 roko:
   idol_id: 25
-  idol_type: Vi
+  idol_type: Fairy
   name:
-    aka: "ロコ"
-    family: "伴田"
-    family_kana: "はんだ"
-    given: "路子"
-    given_kana: "ろこ"
-    shorten: "ロコ"
+    aka: ロコ
+    family: 伴田
+    family_kana: はんだ
+    given: 路子
+    given_kana: ろこ
+    shorten: ロコ
   age: 15
   height: 154.0
   weight: 42.0
@@ -18,10 +19,12 @@ roko:
   blood_type: AB
   handedness: right
   hobbies:
-  - "物を作ること"
+  - 物を作ること
   talents:
-  - "目を閉じたまま歩ける"
+  - 目を閉じたまま歩ける
   favorites:
-  - "ハト"
+  - ハト
   color: "#fff03c"
   cv: 中村温姫
+  birthplace: 東京都
+  idol_image: Visual

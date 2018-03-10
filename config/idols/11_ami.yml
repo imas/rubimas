@@ -1,12 +1,13 @@
+---
 ami:
   idol_id: 11
-  idol_type: Vi
+  idol_type: Angel
   name:
-    family: "双海"
-    family_kana: "ふたみ"
-    given: "亜美"
-    given_kana: "あみ"
-    shorten: "亜美"
+    family: 双海
+    family_kana: ふたみ
+    given: 亜美
+    given_kana: あみ
+    shorten: 亜美
   age: 13
   height: 158.0
   weight: 42.0
@@ -17,11 +18,13 @@ ami:
   blood_type: B
   handedness: right
   hobbies:
-  - "メール"
-  - "エコ"
+  - メール
+  - エコ
   talents:
-  - "モノマネ"
+  - モノマネ
   favorites:
-  - "遊ぶこと"
+  - 遊ぶこと
   color: "#ffe43f"
   cv: 下田麻美
+  birthplace: 東京都
+  idol_image: Visual

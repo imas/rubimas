@@ -1,12 +1,13 @@
+---
 tamaki:
   idol_id: 40
-  idol_type: Da
+  idol_type: Angel
   name:
-    family: "大神"
-    family_kana: "おおがみ"
-    given: "環"
-    given_kana: "たまき"
-    shorten: "環"
+    family: 大神
+    family_kana: おおがみ
+    given: 環
+    given_kana: たまき
+    shorten: 環
   age: 12
   height: 147.0
   weight: 39.0
@@ -17,10 +18,12 @@ tamaki:
   blood_type: B
   handedness: right
   hobbies:
-  - "探検"
+  - 探検
   talents:
-  - "石投げ"
+  - 石投げ
   favorites:
-  - "アスレチックランド"
+  - アスレチックランド
   color: "#ee762e"
   cv: 稲川英里
+  birthplace: 香川県
+  idol_image: Dance

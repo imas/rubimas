@@ -1,14 +1,16 @@
 module Rubimas
   class Idol
-    attr_reader :idol_id, :key, :idol_type, :name, :age, :height, :weight, :bust, :waist, :hip,
+    attr_reader :idol_id, :key, :idol_type, :idol_image, :name, :age, :height, :weight, :bust, :waist, :hip,
                 :birthday, :blood_type, :handedness, :hobbies, :talents, :favorites, :color, :cv
     @@config = nil
     @@all_idols = nil
+    @@theaterdays = false
 
     def initialize(**args)
       @idol_id          = args[:idol_id]
       @key              = args[:key]
       @idol_type        = args[:idol_type]
+      @idol_image       = args[:idol_image]
       @name             = Name.new(args[:name])
       @age              = args[:age]
       @height           = args[:height]
@@ -28,13 +30,21 @@ module Rubimas
     alias_method :id, :idol_id
 
     class << self
-      def config
-        unless @@config
-          @@config = Dir.glob("#{File.dirname(__FILE__)}/../../config/idols/*.yml").each_with_object({}) do |file, idols|
+      def config(force: false)
+        unless @@config && !force
+          regexp = @@theaterdays ? '*' : '{[0-4][0-9],50}*'
+          @@config = Dir.glob("#{File.dirname(__FILE__)}/../../config/idols/#{regexp}.yml").each_with_object({}) do |file, idols|
             idols.merge!(YAML.load_file(file))
           end.deep_symbolize_keys
+          @@all_idols = nil
         end
         @@config
+      end
+
+      def theaterdays!
+        @@theaterdays = true
+        config(force: true)
+        true
       end
 
       def names

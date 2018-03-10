@@ -1,12 +1,13 @@
+---
 yukiho:
   idol_id: 4
-  idol_type: Vi
+  idol_type: Princess
   name:
-    family: "萩原"
-    family_kana: "はぎわら"
-    given: "雪歩"
-    given_kana: "ゆきほ"
-    shorten: "雪歩"
+    family: 萩原
+    family_kana: はぎわら
+    given: 雪歩
+    given_kana: ゆきほ
+    shorten: 雪歩
   age: 17
   height: 155.0
   weight: 42.0
@@ -19,8 +20,10 @@ yukiho:
   hobbies:
   - MY詩集を書くこと
   talents:
-  - "日本茶をいれること"
+  - 日本茶をいれること
   favorites:
-  - "ブログ"
+  - ブログ
   color: "#d3dde9"
   cv: 浅倉杏美
+  birthplace: 東京都
+  idol_image: Visual

@@ -1,12 +1,13 @@
+---
 yayoi:
   idol_id: 5
-  idol_type: Da
+  idol_type: Angel
   name:
-    family: "高槻"
-    family_kana: "たかつき"
-    given: "やよい"
-    given_kana: "やよい"
-    shorten: "やよい"
+    family: 高槻
+    family_kana: たかつき
+    given: やよい
+    given_kana: やよい
+    shorten: やよい
   age: 14
   height: 145.0
   weight: 37.0
@@ -17,12 +18,14 @@ yayoi:
   blood_type: O
   handedness: right
   hobbies:
-  - "オセロ"
-  - "野球"
+  - オセロ
+  - 野球
   talents:
-  - "節約"
-  - "家庭菜園"
+  - 節約
+  - 家庭菜園
   favorites:
-  - "家族"
+  - 家族
   color: "#f39939"
   cv: 仁後真耶子
+  birthplace: 埼玉県
+  idol_image: Dance

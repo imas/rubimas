@@ -1,22 +1,25 @@
+---
 juria:
   idol_id: 50
-  idol_type: Vo
+  idol_type: Fairy
   name:
-    aka: "ジュリア"
-    shorten: "ジュリア"
+    aka: ジュリア
+    shorten: ジュリア
   age: 16
   height: 157.0
   weight: 43.0
   bust: 79.0
   waist: 54.0
   hip: 80.0
-  birthday: 09/26
+  birthday: '09/26'
   blood_type: O
   handedness: left
-  hobbies:
+  hobbies: 
   talents:
-  - "ギター"
+  - ギター
   favorites:
-  - "パンクロック"
+  - パンクロック
   color: "#d7385f"
   cv: 愛美
+  birthplace: 福岡県
+  idol_image: Vocal

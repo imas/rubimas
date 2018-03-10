@@ -1,12 +1,13 @@
+---
 megumi:
   idol_id: 20
-  idol_type: Vi
+  idol_type: Fairy
   name:
-    family: "所"
-    family_kana: "ところ"
-    given: "恵美"
-    given_kana: "めぐみ"
-    shorten: "恵美"
+    family: 所
+    family_kana: ところ
+    given: 恵美
+    given_kana: めぐみ
+    shorten: 恵美
   age: 16
   height: 159.0
   weight: 47.0
@@ -17,10 +18,12 @@ megumi:
   blood_type: O
   handedness: right
   hobbies:
-  - "カラオケ"
+  - カラオケ
   talents:
-  - "人の誕生日を覚えること"
+  - 人の誕生日を覚えること
   favorites:
-  - "友達"
+  - 友達
   color: "#454341"
   cv: 藤井ゆきよ
+  birthplace: 埼玉県
+  idol_image: Visual

@@ -1,12 +1,13 @@
+---
 noriko:
   idol_id: 43
-  idol_type: Da
+  idol_type: Princess
   name:
-    family: "福田"
-    family_kana: "ふくだ"
-    given: "のり子"
-    given_kana: "のりこ"
-    shorten: "のり子"
+    family: 福田
+    family_kana: ふくだ
+    given: のり子
+    given_kana: のりこ
+    shorten: のり子
   age: 18
   height: 164.0
   weight: 48.0
@@ -17,10 +18,12 @@ noriko:
   blood_type: A
   handedness: right
   hobbies:
-  - "格闘技観戦"
+  - 格闘技観戦
   talents:
-  - "バイクの運転"
+  - バイクの運転
   favorites:
-  - "焼肉"
+  - 焼肉
   color: "#eceb70"
   cv: 浜崎奈々
+  birthplace: 東京都
+  idol_image: Dance

@@ -7,6 +7,38 @@ describe Rubimas::Idol do
     specify 'All idol count is 50' do
       expect(subject.keys.count).to eq 50
     end
+
+    context 'when calling `theaterdays!` before config.' do
+      before { described_class.theaterdays! }
+
+      specify 'All idol count is 52' do
+        expect(subject.keys.count).to eq 52
+      end
+
+      after do
+        Rubimas::Idol.class_variable_set(:@@theaterdays, false)
+        Rubimas::Idol.config(force: true)
+      end
+    end
+  end
+
+  describe '#theaterdays!' do
+    it "should change idol's count" do
+      expect { Rubimas.find_by_name('紬') }.to raise_error Rubimas::Idol::UnknownIdolError
+      expect { Rubimas.find_by_name('歌織') }.to raise_error Rubimas::Idol::UnknownIdolError
+      expect(described_class.all.count).to eq 50
+
+      Rubimas.theaterdays!
+
+      expect { Rubimas.find_by_name('紬') }.not_to raise_error
+      expect { Rubimas.find_by_name('歌織') }.not_to raise_error
+      expect(described_class.all.count).to eq 52
+    end
+
+    after do
+      Rubimas::Idol.class_variable_set(:@@theaterdays, false)
+      Rubimas::Idol.config(force: true)
+    end
   end
 
   describe '#all' do
@@ -15,6 +47,20 @@ describe Rubimas::Idol do
     specify 'Idols are order by id' do
       expect(subject.first.key).to eq :haruka
       expect(subject.last.key).to eq :juria
+    end
+
+    context 'when calling `theaterdays!` before config.' do
+      before { described_class.theaterdays! }
+
+      specify 'Idols are order by id' do
+        expect(subject.first.key).to eq :haruka
+        expect(subject.last.key).to eq :kaori
+      end
+
+      after do
+        Rubimas::Idol.class_variable_set(:@@theaterdays, false)
+        Rubimas::Idol.config(force: true)
+      end
     end
   end
 

@@ -1,0 +1,31 @@
+---
+tsumugi:
+  idol_id: 51
+  idol_type: Fairy
+  name:
+    family: 白石
+    family_kana: しらいし
+    given: 紬
+    given_kana: つむぎ
+    shorten: 紬
+  age: 17
+  height: 160.0
+  weight: 45.0
+  bust: 82.0
+  waist: 56.0
+  hip: 83.0
+  birthday: 05/29
+  blood_type: AB
+  handedness: right
+  hobbies:
+  - 庭園
+  - 甘味処巡り
+  talents:
+  - 着物の着付け
+  - 三味線
+  favorites:
+  - 和スイーツ
+  color: "#e6dcf7"
+  cv: 南早紀
+  birthplace: 石川県
+  idol_image: 

@@ -1,12 +1,13 @@
+---
 chihaya:
   idol_id: 2
-  idol_type: Vo
+  idol_type: Fairy
   name:
-    family: "如月"
-    family_kana: "きさらぎ"
-    given: "千早"
-    given_kana: "ちはや"
-    shorten: "千早"
+    family: 如月
+    family_kana: きさらぎ
+    given: 千早
+    given_kana: ちはや
+    shorten: 千早
   age: 16
   height: 162.0
   weight: 41.0
@@ -17,10 +18,12 @@ chihaya:
   blood_type: A
   handedness: right
   hobbies:
-  - "音楽鑑賞"
+  - 音楽鑑賞
   talents:
-  - "歌"
+  - 歌
   favorites:
-  - "トレーニング"
+  - トレーニング
   color: "#2743d2"
   cv: 今井麻美
+  birthplace: 東京都
+  idol_image: Vocal

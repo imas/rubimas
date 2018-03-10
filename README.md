@@ -23,16 +23,30 @@ Or install it yourself as:
 ## Usage
 
     require 'rubimas'
-    765.pro.haruka.name
-    # "天海春香"
-    765.pro.haruka.birthday
-    # "04/03"
-    765.pro.haruka.favorites
-    # ["歌うこと"]
+    765.pro.haruka.name.full # => "天海春香"
+    765.pro.haruka.birthday # => "04/03"
+    765.pro.haruka.favorites # => ["歌うこと"]
 
     # idol_id search
-    765.pro.find_by_id(39).name
-    # "馬場このみ"
+    765.pro.find_by_id(39).name.full # => "馬場このみ"
+
+    # `Rubimas` is simple way to use rubimas.
+    Rubimas.find_by_id(39).name.full # => "馬場このみ"
+    Rubimas.find_by_name("馬場このみ").favorite # => ["日本酒"]
+
+
+### How to use theaterdays idols
+
+If you want to use new members of theaterdays, you can use them by calling `Rubimas.theaterdays!`
+
+    require 'rubimas'
+
+    Rubimas.find_by_name('紬') # => Rubimas::Idol::UnknownIdolError (unknown idol: 紬)
+
+    Rubimas.theaterdays!
+
+    # You can search new idols
+    Rubimas.find_by_name("紬").favorite # => #<Rubimas::Idol: @idol_id=51, @key=:tsumugi, @name=#<Rubimas::Idol::Name: @family="白石", @family_kana="しらいし", @given="紬", @given_kana="つむぎ", @shorten="紬">...
 
 ## Contributing
 

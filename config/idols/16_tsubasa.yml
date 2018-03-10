@@ -1,12 +1,13 @@
+---
 tsubasa:
   idol_id: 16
-  idol_type: Vi
+  idol_type: Angel
   name:
-    family: "伊吹"
-    family_kana: "いぶき"
-    given: "翼"
-    given_kana: "つばさ"
-    shorten: "翼"
+    family: 伊吹
+    family_kana: いぶき
+    given: 翼
+    given_kana: つばさ
+    shorten: 翼
   age: 14
   height: 158.0
   weight: 43.0
@@ -17,10 +18,12 @@ tsubasa:
   blood_type: B
   handedness: left
   hobbies:
-  - "遊びの計画をたてること"
+  - 遊びの計画をたてること
   talents:
-  - "じゃんけん"
+  - じゃんけん
   favorites:
-  - "ビーフステーキ"
+  - ビーフステーキ
   color: "#fed552"
   cv: Machico
+  birthplace: 東京都
+  idol_image: Visual
