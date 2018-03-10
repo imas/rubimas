@@ -1,5 +1,13 @@
 ## master
-[full changelog](http://github.com/imas/rubimas/compare/v0.5.0...master)
+[full changelog](http://github.com/imas/rubimas/compare/v1.0.0...master)
+
+## v1.0.0 :tada:
+[full changelog](http://github.com/imas/rubimas/compare/v0.5.0...v1.0.0)
+
+- Theaterdays ready
+  - Try `Rubimas.theaterdays!` to meet Tsumugi and Kaori.
+  - Add `birthplace` attribute.
+  - Old `idol_type` is now `idol_image`, and `idol_type` is for Princess/Fairy/Angel.
 
 ## v0.5.0
 [full changelog](http://github.com/imas/rubimas/compare/v0.4.0...v0.5.0)
