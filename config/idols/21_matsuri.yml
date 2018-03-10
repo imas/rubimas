@@ -1,12 +1,13 @@
+---
 matsuri:
   idol_id: 21
-  idol_type: Vi
+  idol_type: Princess
   name:
-    family: "徳川"
-    family_kana: "とくがわ"
-    given: "まつり"
-    given_kana: "まつり"
-    shorten: "まつり"
+    family: 徳川
+    family_kana: とくがわ
+    given: まつり
+    given_kana: まつり
+    shorten: まつり
   age: 19
   height: 163.0
   weight: 44.0
@@ -17,11 +18,13 @@ matsuri:
   blood_type: AB
   handedness: right
   hobbies:
-  - "漫画あつめ"
+  - 漫画あつめ
   talents:
-  - "演技"
+  - 演技
   favorites:
-  - "焼きマシュマロ"
-  - "ウミウシ"
+  - 焼きマシュマロ
+  - ウミウシ
   color: "#5abfb7"
   cv: 諏訪彩花
+  birthplace: 愛知県
+  idol_image: Visual

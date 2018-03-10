@@ -1,27 +1,30 @@
+---
 makoto:
   idol_id: 6
-  idol_type: Da
+  idol_type: Princess
   name:
-    family: "菊地"
-    family_kana: "きくち"
-    given: "真"
-    given_kana: "まこと"
-    shorten: "真"
+    family: 菊地
+    family_kana: きくち
+    given: 真
+    given_kana: まこと
+    shorten: 真
   age: 17
   height: 159.0
   weight: 44.0
   bust: 75.0
   waist: 57.0
   hip: 78.0
-  birthday: 08/29
+  birthday: '08/29'
   blood_type: O
   handedness: right
   hobbies:
-  - "スポーツ全般"
+  - スポーツ全般
   talents:
-  - "空手"
-  - "ダンス"
+  - 空手
+  - ダンス
   favorites:
-  - "ぬいぐるみ"
+  - ぬいぐるみ
   color: "#515558"
   cv: 平田宏美
+  birthplace: 静岡県
+  idol_image: Dance

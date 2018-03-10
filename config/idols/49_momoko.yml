@@ -1,12 +1,13 @@
+---
 momoko:
   idol_id: 49
-  idol_type: Vi
+  idol_type: Fairy
   name:
-    family: "周防"
-    family_kana: "すおう"
-    given: "桃子"
-    given_kana: "ももこ"
-    shorten: "桃子"
+    family: 周防
+    family_kana: すおう
+    given: 桃子
+    given_kana: ももこ
+    shorten: 桃子
   age: 11
   height: 140.0
   weight: 35.0
@@ -17,10 +18,12 @@ momoko:
   blood_type: B
   handedness: right
   hobbies:
-  - "かわいいシール集め"
+  - かわいいシール集め
   talents:
-  - "演技や台詞の暗記"
+  - 演技や台詞の暗記
   favorites:
-  - "ホットケーキ"
+  - ホットケーキ
   color: "#efb864"
   cv: 渡部恵子
+  birthplace: 東京都
+  idol_image: Visual

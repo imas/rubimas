@@ -1,6 +1,6 @@
 module Rubimas
   class Idol
-    attr_reader :idol_id, :key, :idol_type, :name, :age, :height, :weight, :bust, :waist, :hip,
+    attr_reader :idol_id, :key, :idol_type, :idol_image, :name, :age, :height, :weight, :bust, :waist, :hip,
                 :birthday, :blood_type, :handedness, :hobbies, :talents, :favorites, :color, :cv
     @@config = nil
     @@all_idols = nil
@@ -10,6 +10,7 @@ module Rubimas
       @idol_id          = args[:idol_id]
       @key              = args[:key]
       @idol_type        = args[:idol_type]
+      @idol_image       = args[:idol_image]
       @name             = Name.new(args[:name])
       @age              = args[:age]
       @height           = args[:height]

@@ -1,12 +1,13 @@
+---
 reika:
   idol_id: 48
-  idol_type: Da
+  idol_type: Angel
   name:
-    family: "北上"
-    family_kana: "きたかみ"
-    given: "麗花"
-    given_kana: "れいか"
-    shorten: "麗花"
+    family: 北上
+    family_kana: きたかみ
+    given: 麗花
+    given_kana: れいか
+    shorten: 麗花
   age: 20
   height: 164.0
   weight: 47.0
@@ -17,10 +18,12 @@ reika:
   blood_type: A
   handedness: right
   hobbies:
-  - "登山"
+  - 登山
   talents:
-  - "肺活量が大きい"
+  - 肺活量が大きい
   favorites:
-  - "ドライブ"
+  - ドライブ
   color: "#6bb6b0"
   cv: 平山笑美
+  birthplace: 長野県
+  idol_image: Dance

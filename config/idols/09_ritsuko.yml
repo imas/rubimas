@@ -1,12 +1,13 @@
+---
 ritsuko:
   idol_id: 9
-  idol_type: Vi
+  idol_type: Fairy
   name:
-    family: "秋月"
-    family_kana: "あきづき"
-    given: "律子"
-    given_kana: "りつこ"
-    shorten: "律子"
+    family: 秋月
+    family_kana: あきづき
+    given: 律子
+    given_kana: りつこ
+    shorten: 律子
   age: 19
   height: 156.0
   weight: 43.0
@@ -17,11 +18,13 @@ ritsuko:
   blood_type: A
   handedness: right
   hobbies:
-  - "資格取得"
+  - 資格取得
   talents:
-  - "分析・実践"
+  - 分析・実践
   favorites:
-  - "ゲーム"
-  - "小説"
+  - ゲーム
+  - 小説
   color: "#01a860"
   cv: 若林直美
+  birthplace: 東京都
+  idol_image: Visual

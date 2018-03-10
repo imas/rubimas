@@ -1,26 +1,29 @@
+---
 fuuka:
   idol_id: 41
-  idol_type: Vi
+  idol_type: Angel
   name:
-    family: "豊川"
-    family_kana: "とよかわ"
-    given: "風花"
-    given_kana: "ふうか"
-    shorten: "風花"
+    family: 豊川
+    family_kana: とよかわ
+    given: 風花
+    given_kana: ふうか
+    shorten: 風花
   age: 22
   height: 162.0
   weight: 51.0
   bust: 93.0
   waist: 63.0
   hip: 91.0
-  birthday: 09/02
+  birthday: '09/02'
   blood_type: O
   handedness: right
   hobbies:
-  - "献血"
+  - 献血
   talents:
-  - "息を止めること"
+  - 息を止めること
   favorites:
-  - "猫"
+  - 猫
   color: "#7278a8"
   cv: 末柄里恵
+  birthplace: 千葉県
+  idol_image: Visual

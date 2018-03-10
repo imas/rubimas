@@ -1,12 +1,13 @@
+---
 tomoka:
   idol_id: 31
-  idol_type: Vo
+  idol_type: Fairy
   name:
-    family: "天空橋"
-    family_kana: "てんくうばし"
-    given: "朋花"
-    given_kana: "ともか"
-    shorten: "朋花"
+    family: 天空橋
+    family_kana: てんくうばし
+    given: 朋花
+    given_kana: ともか
+    shorten: 朋花
   age: 15
   height: 156.0
   weight: 41.0
@@ -17,10 +18,12 @@ tomoka:
   blood_type: AB
   handedness: left
   hobbies:
-  - "ファンに喜んでもらうこと"
+  - ファンに喜んでもらうこと
   talents:
-  - "口げんか"
+  - 口げんか
   favorites:
-  - "かわいい扇子"
+  - かわいい扇子
   color: "#bee3e3"
   cv: 小岩井ことり
+  birthplace: 東京都
+  idol_image: Vocal

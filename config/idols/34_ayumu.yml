@@ -1,12 +1,13 @@
+---
 ayumu:
   idol_id: 34
-  idol_type: Da
+  idol_type: Fairy
   name:
-    family: "舞浜"
-    family_kana: "まいはま"
-    given: "歩"
-    given_kana: "あゆむ"
-    shorten: "歩"
+    family: 舞浜
+    family_kana: まいはま
+    given: 歩
+    given_kana: あゆむ
+    shorten: 歩
   age: 19
   height: 158.0
   weight: 49.9
@@ -17,10 +18,12 @@ ayumu:
   blood_type: A
   handedness: right
   hobbies:
-  - "ショッピング"
+  - ショッピング
   talents:
-  - "ダンス"
+  - ダンス
   favorites:
-  - "わさび"
+  - わさび
   color: "#e25a9b"
   cv: 戸田めぐみ
+  birthplace: 愛媛県
+  idol_image: Dance

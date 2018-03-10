@@ -1,12 +1,13 @@
+---
 mizuki:
   idol_id: 44
-  idol_type: Da
+  idol_type: Fairy
   name:
-    family: "真壁"
-    family_kana: "まかべ"
-    given: "瑞希"
-    given_kana: "みずき"
-    shorten: "瑞希"
+    family: 真壁
+    family_kana: まかべ
+    given: 瑞希
+    given_kana: みずき
+    shorten: 瑞希
   age: 17
   height: 160.0
   weight: 43.0
@@ -17,10 +18,12 @@ mizuki:
   blood_type: B
   handedness: right
   hobbies:
-  - "手品"
+  - 手品
   talents:
-  - "バトントワリング"
+  - バトントワリング
   favorites:
-  - "クロスワードパズル"
+  - クロスワードパズル
   color: "#99b7dc"
   cv: 阿部里果
+  birthplace: 神奈川県
+  idol_image: Dance

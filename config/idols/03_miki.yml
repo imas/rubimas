@@ -1,12 +1,13 @@
+---
 miki:
   idol_id: 3
-  idol_type: Vi
+  idol_type: Angel
   name:
-    family: "星井"
-    family_kana: "ほしい"
-    given: "美希"
-    given_kana: "みき"
-    shorten: "美希"
+    family: 星井
+    family_kana: ほしい
+    given: 美希
+    given_kana: みき
+    shorten: 美希
   age: 15
   height: 161.0
   weight: 45.0
@@ -17,12 +18,14 @@ miki:
   blood_type: B
   handedness: right
   hobbies:
-  - "友達とおしゃべり"
-  - "ネイルアート"
+  - 友達とおしゃべり
+  - ネイルアート
   talents:
-  - "寝ること"
+  - 寝ること
   favorites:
-  - "おにぎり"
-  - "いちごババロア"
+  - おにぎり
+  - いちごババロア
   color: "#b4e04b"
   cv: 長谷川明子
+  birthplace: 神奈川県
+  idol_image: Visual

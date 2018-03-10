@@ -1,26 +1,29 @@
+---
 shizuka:
   idol_id: 15
-  idol_type: Vo
+  idol_type: Fairy
   name:
-    family: "最上"
-    family_kana: "もがみ"
-    given: "静香"
-    given_kana: "しずか"
-    shorten: "静香"
+    family: 最上
+    family_kana: もがみ
+    given: 静香
+    given_kana: しずか
+    shorten: 静香
   age: 14
   height: 162.0
   weight: 44.0
   bust: 76.0
   waist: 53.0
   hip: 77.0
-  birthday: 09/14
+  birthday: '09/14'
   blood_type: A
   handedness: right
   hobbies:
-  - "テニス"
+  - テニス
   talents:
-  - "ピアノ"
+  - ピアノ
   favorites:
-  - "うどん"
+  - うどん
   color: "#6495cf"
   cv: 田所あずさ
+  birthplace: 埼玉県
+  idol_image: Vocal

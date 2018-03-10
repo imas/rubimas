@@ -1,12 +1,13 @@
+---
 kotoha:
   idol_id: 17
-  idol_type: Vo
+  idol_type: Princess
   name:
-    family: "田中"
-    family_kana: "たなか"
-    given: "琴葉"
-    given_kana: "ことは"
-    shorten: "琴葉"
+    family: 田中
+    family_kana: たなか
+    given: 琴葉
+    given_kana: ことは
+    shorten: 琴葉
   age: 18
   height: 157.0
   weight: 44.0
@@ -17,10 +18,12 @@ kotoha:
   blood_type: A
   handedness: right
   hobbies:
-  - "お風呂"
+  - お風呂
   talents:
-  - "フェンシング"
+  - フェンシング
   favorites:
-  - "アイス"
+  - アイス
   color: "#92cfbb"
   cv: 種田梨沙
+  birthplace: 東京都
+  idol_image: Vocal

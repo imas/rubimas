@@ -1,12 +1,13 @@
+---
 chiduru:
   idol_id: 38
-  idol_type: Vi
+  idol_type: Fairy
   name:
-    family: "二階堂"
-    family_kana: "にかいどう"
-    given: "千鶴"
-    given_kana: "ちづる"
-    shorten: "千鶴"
+    family: 二階堂
+    family_kana: にかいどう
+    given: 千鶴
+    given_kana: ちづる
+    shorten: 千鶴
   age: 21
   height: 165.0
   weight: 50.0
@@ -17,10 +18,12 @@ chiduru:
   blood_type: B
   handedness: right
   hobbies:
-  - "カフェでアパレル誌チェック"
+  - カフェでアパレル誌チェック
   talents:
-  - "人の名前と顔を忘れない"
+  - 人の名前と顔を忘れない
   favorites:
-  - "憧れの目で見られること"
+  - 憧れの目で見られること
   color: "#f19557"
   cv: 野村香菜子
+  birthplace: 東京都
+  idol_image: Visual

@@ -1,12 +1,13 @@
+---
 takane:
   idol_id: 8
-  idol_type: Vo
+  idol_type: Fairy
   name:
-    family: "四条"
-    family_kana: "しじょう"
-    given: "貴音"
-    given_kana: "たかね"
-    shorten: "貴音"
+    family: 四条
+    family_kana: しじょう
+    given: 貴音
+    given_kana: たかね
+    shorten: 貴音
   age: 18
   height: 169.0
   weight: 49.0
@@ -17,11 +18,13 @@ takane:
   blood_type: B
   handedness: right
   hobbies:
-  - "天体観測"
-  - "歴史"
+  - 天体観測
+  - 歴史
   talents:
-  - "直感"
+  - 直感
   favorites:
-  - "ラーメン"
+  - ラーメン
   color: "#a6126a"
   cv: 原由実
+  birthplace: 京都府？
+  idol_image: Vocal

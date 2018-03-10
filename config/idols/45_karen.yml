@@ -1,26 +1,29 @@
+---
 karen:
   idol_id: 45
-  idol_type: Vi
+  idol_type: Angel
   name:
-    family: "篠宮"
-    family_kana: "しのみや"
-    given: "可憐"
-    given_kana: "かれん"
-    shorten: "可憐"
+    family: 篠宮
+    family_kana: しのみや
+    given: 可憐
+    given_kana: かれん
+    shorten: 可憐
   age: 16
   height: 159.0
   weight: 48.0
   bust: 90.0
   waist: 59.0
   hip: 90.0
-  birthday: 08/27
+  birthday: '08/27'
   blood_type: AB
   handedness: right
   hobbies:
-  - "アロマテラピー"
+  - アロマテラピー
   talents:
-  - "ポーカーフェイス"
+  - ポーカーフェイス
   favorites:
-  - "お風呂"
+  - お風呂
   color: "#b63b40"
   cv: 近藤唯
+  birthplace: 東京都
+  idol_image: Visual

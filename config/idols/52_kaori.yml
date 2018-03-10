@@ -1,12 +1,13 @@
+---
 kaori:
   idol_id: 52
-  idol_type:
+  idol_type: Angel
   name:
-    family: "桜守"
-    family_kana: "さくらもり"
-    given: "歌織"
-    given_kana: "かおり"
-    shorten: "歌織"
+    family: 桜守
+    family_kana: さくらもり
+    given: 歌織
+    given_kana: かおり
+    shorten: 歌織
   age: 23
   height: 165.0
   weight: 47.0
@@ -17,12 +18,14 @@ kaori:
   blood_type: O
   handedness: right
   hobbies:
-  - "乗馬"
+  - 乗馬
   talents:
-  - "合唱"
-  - "ゴルフ"
+  - 合唱
+  - ゴルフ
   favorites:
-  - "子ども"
-  - "洋菓子"
+  - 子ども
+  - 洋菓子
   color: "#28417d"
   cv: 香里有佐
+  birthplace: 東京都
+  idol_image: 

@@ -1,26 +1,29 @@
+---
 kana:
   idol_id: 36
-  idol_type: Vo
+  idol_type: Princess
   name:
-    family: "矢吹"
-    family_kana: "やぶき"
-    given: "可奈"
-    given_kana: "かな"
-    shorten: "可奈"
+    family: 矢吹
+    family_kana: やぶき
+    given: 可奈
+    given_kana: かな
+    shorten: 可奈
   age: 14
   height: 155.0
   weight: 43.0
   bust: 77.0
   waist: 54.0
   hip: 76.0
-  birthday: 08/18
+  birthday: '08/18'
   blood_type: A
   handedness: right
   hobbies:
-  - "なんでも歌にすること"
+  - なんでも歌にすること
   talents:
-  - "合唱"
+  - 合唱
   favorites:
-  - "屋上で歌うこと"
+  - 屋上で歌うこと
   color: "#f5ad3b"
   cv: 木戸衣吹
+  birthplace: 神奈川県
+  idol_image: Vocal

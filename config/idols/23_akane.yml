@@ -1,12 +1,13 @@
+---
 akane:
   idol_id: 23
-  idol_type: Da
+  idol_type: Angel
   name:
-    family: "野々原"
-    family_kana: "ののはら"
-    given: "茜"
-    given_kana: "あかね"
-    shorten: "茜"
+    family: 野々原
+    family_kana: ののはら
+    given: 茜
+    given_kana: あかね
+    shorten: 茜
   age: 16
   height: 150.0
   weight: 42.0
@@ -17,10 +18,12 @@ akane:
   blood_type: AB
   handedness: left
   hobbies:
-  - "スキップ"
+  - スキップ
   talents:
-  - "インラインスケート"
+  - インラインスケート
   favorites:
-  - "プリン"
+  - プリン
   color: "#eb613f"
   cv: 小笠原早紀
+  birthplace: 埼玉県
+  idol_image: Dance
