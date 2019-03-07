@@ -12,5 +12,5 @@ matrix:
 before_install:
   - gem update --system || gem update --system 2.7.3
   - gem --version
-  - gem update bundler || gem update bundler -v 1.17.3
+  - gem install bundler -v 1.17.3
   - bundle --version
