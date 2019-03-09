@@ -1,4 +1,6 @@
+sudo: false
 language: ruby
+cache: bundler
 rvm:
   - 2.2
   - 2.3
@@ -10,7 +12,4 @@ matrix:
   allow_failures:
     - rvm: ruby-head
 before_install:
-  - gem update --system 2.7.3
-  - gem --version
-  - gem install bundler -v 1.17.3
-  - bundler --version
+  - gem install bundler -v 1.17.2
