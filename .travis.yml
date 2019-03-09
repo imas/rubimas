@@ -10,7 +10,7 @@ matrix:
   allow_failures:
     - rvm: ruby-head
 before_install:
-  - gem update --system || gem update --system 2.7.3
+  - gem update --system 2.7.3
   - gem --version
   - gem install bundler -v 1.17.3
   - bundle --version
