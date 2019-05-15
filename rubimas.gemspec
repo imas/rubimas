@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'activesupport', '>= 4.0'
   spec.add_dependency 'hashie', '>= 3.0'
 
-  spec.add_development_dependency 'bundler', '~> 1'
+  spec.add_development_dependency 'bundler', '>= 1'
   spec.add_development_dependency 'rake', '~> 10'
   spec.add_development_dependency 'rspec', '~> 3'
   spec.add_development_dependency 'rspec-collection_matchers', '~> 1'
